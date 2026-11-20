@@ -1196,9 +1196,9 @@
       "id": "bird-0150",
       "name": "Black-billed Magpie",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:25:36.423Z"
     },
     {
       "id": "bird-0151",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoycs6fja0n0",
+      "birdId": "bird-0150",
+      "birdName": "Black-billed Magpie",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:25:36.423Z"
+    },
     {
       "id": "mwoycfiu9285d",
       "birdId": "bird-0139",
