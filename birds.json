@@ -1124,9 +1124,9 @@
       "id": "bird-0141",
       "name": "Western Gull",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:31:09.103Z"
     },
     {
       "id": "bird-0142",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0p2njsiori",
+      "birdId": "bird-0141",
+      "birdName": "Western Gull",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:31:09.103Z"
+    },
     {
       "id": "mwp0ol1jmdmhe",
       "birdId": "bird-0178",
