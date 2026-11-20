@@ -1724,9 +1724,9 @@
       "id": "bird-0216",
       "name": "Loggerhead Shrike",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:23:43.640Z"
     },
     {
       "id": "bird-0217",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0fixk583yu",
+      "birdId": "bird-0216",
+      "birdName": "Loggerhead Shrike",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:23:43.640Z"
+    },
     {
       "id": "mwp0f9t4mcr84",
       "birdId": "bird-0238",
