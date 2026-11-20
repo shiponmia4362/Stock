@@ -2652,9 +2652,9 @@
       "id": "bird-0332",
       "name": "Western Grebe",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:40:44.515Z"
     },
     {
       "id": "bird-0333",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp36kf71tg4o",
+      "birdId": "bird-0332",
+      "birdName": "Western Grebe",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:40:44.515Z"
+    },
     {
       "id": "mwp36blfw4m8j",
       "birdId": "bird-0333",
