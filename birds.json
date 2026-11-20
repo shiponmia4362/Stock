@@ -36,9 +36,9 @@
       "id": "bird-0005",
       "name": "Chestnut-backed Chickadee",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T15:46:09.998Z"
     },
     {
       "id": "bird-0006",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5ipcetfuyt",
+      "birdId": "bird-0005",
+      "birdName": "Chestnut-backed Chickadee",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T15:46:09.998Z"
+    },
     {
       "id": "mwp5iiyf1jhg6",
       "birdId": "bird-0006",
