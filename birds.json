@@ -1140,9 +1140,9 @@
       "id": "bird-0143",
       "name": "American Goshawk",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:33:14.279Z"
     },
     {
       "id": "bird-0144",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0rr8n0irvl",
+      "birdId": "bird-0143",
+      "birdName": "American Goshawk",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:33:14.279Z"
+    },
     {
       "id": "mwp0rc0n0hxww",
       "birdId": "bird-0156",
