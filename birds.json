@@ -1028,9 +1028,9 @@
       "id": "bird-0129",
       "name": "Ring-necked Pheasant",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:39:06.454Z"
     },
     {
       "id": "bird-0130",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0zazbipsmu",
+      "birdId": "bird-0129",
+      "birdName": "Ring-necked Pheasant",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:39:06.455Z"
+    },
     {
       "id": "mwp0z3gvf03et",
       "birdId": "bird-0106",
