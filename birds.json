@@ -6580,12 +6580,20 @@
       "id": "mwp6wpk5iv8vv",
       "name": "Great Shearwater",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T16:25:03.077Z",
-      "updatedAt": "2026-11-20T16:25:03.077Z"
+      "updatedAt": "2026-11-20T16:25:15.756Z"
     }
   ],
   "logs": [
+    {
+      "id": "mwp6wzcc694p7",
+      "birdId": "mwp6wpk5iv8vv",
+      "birdName": "Great Shearwater",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T16:25:15.756Z"
+    },
     {
       "id": "mwp6wpk5qlngq",
       "birdId": "mwp6wpk5iv8vv",
