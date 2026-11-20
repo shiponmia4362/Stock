@@ -2436,9 +2436,9 @@
       "id": "bird-0305",
       "name": "Cactus Wren",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:36:35.915Z"
     },
     {
       "id": "bird-0306",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp318lnm0w65",
+      "birdId": "bird-0305",
+      "birdName": "Cactus Wren",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:36:35.915Z"
+    },
     {
       "id": "mwp3127v6y7rm",
       "birdId": "bird-0296",
