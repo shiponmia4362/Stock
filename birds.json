@@ -1708,9 +1708,9 @@
       "id": "bird-0214",
       "name": "Sage Thrasher",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:33:33.955Z"
     },
     {
       "id": "bird-0215",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2xc77c6knv",
+      "birdId": "bird-0214",
+      "birdName": "Sage Thrasher",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:33:33.955Z"
+    },
     {
       "id": "mwp2x4hnnzsy3",
       "birdId": "bird-0248",
