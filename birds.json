@@ -2516,9 +2516,9 @@
       "id": "bird-0315",
       "name": "Anna's Hummingbird",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T15:42:39.007Z"
     },
     {
       "id": "bird-0316",
@@ -6585,5 +6585,14 @@
       "updatedAt": "2026-11-20T11:59:53.274Z"
     }
   ],
-  "logs": []
+  "logs": [
+    {
+      "id": "mwp5e6jjcc2vl",
+      "birdId": "bird-0315",
+      "birdName": "Anna's Hummingbird",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T15:42:39.007Z"
+    }
+  ]
 }
