@@ -1604,9 +1604,9 @@
       "id": "bird-0201",
       "name": "Worm-eating Warbler",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:34:23.075Z"
     },
     {
       "id": "bird-0202",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2ye3nbamhw",
+      "birdId": "bird-0201",
+      "birdName": "Worm-eating Warbler",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:34:23.075Z"
+    },
     {
       "id": "mwp2y7xv7xjl6",
       "birdId": "bird-0219",
