@@ -140,9 +140,9 @@
       "id": "bird-0018",
       "name": "Swainson's Warbler",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:58:11.669Z"
     },
     {
       "id": "bird-0019",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1numt09jkn",
+      "birdId": "bird-0018",
+      "birdName": "Swainson's Warbler",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:58:11.669Z"
+    },
     {
       "id": "mwp1nkxx3pu4s",
       "birdId": "bird-0034",
