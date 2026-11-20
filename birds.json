@@ -204,9 +204,9 @@
       "id": "bird-0026",
       "name": "Sooty Shearwater",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:56:27.038Z"
     },
     {
       "id": "bird-0027",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1llwe8v8xl",
+      "birdId": "bird-0026",
+      "birdName": "Sooty Shearwater",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:56:27.038Z"
+    },
     {
       "id": "mwp1lgkmylny5",
       "birdId": "bird-0028",
