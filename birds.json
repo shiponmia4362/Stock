@@ -1812,9 +1812,9 @@
       "id": "bird-0227",
       "name": "Tree Swallow",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:26:38.319Z"
     },
     {
       "id": "bird-0228",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0j9prtglns",
+      "birdId": "bird-0227",
+      "birdName": "Tree Swallow",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:26:38.319Z"
+    },
     {
       "id": "mwp0ixaffi6sl",
       "birdId": "bird-0192",
