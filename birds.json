@@ -1732,9 +1732,9 @@
       "id": "bird-0217",
       "name": "Trumpeter Swan",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:25:22.707Z"
     },
     {
       "id": "bird-0218",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2mt5gy0c4q",
+      "birdId": "bird-0217",
+      "birdName": "Trumpeter Swan",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:25:22.708Z"
+    },
     {
       "id": "mwp2mns5rc9vt",
       "birdId": "bird-0211",
