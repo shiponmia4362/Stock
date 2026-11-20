@@ -1268,9 +1268,9 @@
       "id": "bird-0159",
       "name": "Brown Jay",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:31:52.047Z"
     },
     {
       "id": "bird-0160",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0pzsf630sy",
+      "birdId": "bird-0159",
+      "birdName": "Brown Jay",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:31:52.047Z"
+    },
     {
       "id": "mwp0ptjz7ejgv",
       "birdId": "bird-0164",
