@@ -1868,9 +1868,9 @@
       "id": "bird-0234",
       "name": "Black Guillemot",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:03:07.149Z"
     },
     {
       "id": "bird-0235",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1u6mlev5qf",
+      "birdId": "bird-0234",
+      "birdName": "Black Guillemot",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:03:07.149Z"
+    },
     {
       "id": "mwp1twit9u70o",
       "birdId": "bird-0504",
