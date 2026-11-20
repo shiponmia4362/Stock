@@ -540,9 +540,9 @@
       "id": "bird-0068",
       "name": "Northern Cardinal",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:54:13.518Z"
     },
     {
       "id": "bird-0069",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1iqvi3l24f",
+      "birdId": "bird-0068",
+      "birdName": "Northern Cardinal",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:54:13.518Z"
+    },
     {
       "id": "mwp1ifyup6ayu",
       "birdId": "bird-0063",
