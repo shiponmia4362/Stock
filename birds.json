@@ -428,9 +428,9 @@
       "id": "bird-0054",
       "name": "Northern Harrier",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:55:49.958Z"
     },
     {
       "id": "bird-0055",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1ktaeqg0uf",
+      "birdId": "bird-0054",
+      "birdName": "Northern Harrier",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:55:49.958Z"
+    },
     {
       "id": "mwp1ki0m5acih",
       "birdId": "bird-0052",
