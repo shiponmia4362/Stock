@@ -2084,9 +2084,9 @@
       "id": "bird-0261",
       "name": "Redpoll",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:31:50.550Z"
     },
     {
       "id": "bird-0262",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyksuufrhs8",
+      "birdId": "bird-0261",
+      "birdName": "Redpoll",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:31:50.550Z"
+    },
     {
       "id": "mwoykh1qg42bj",
       "birdId": "bird-0084",
