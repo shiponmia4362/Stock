@@ -2444,9 +2444,9 @@
       "id": "bird-0306",
       "name": "Gilded Flicker",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:37:55.755Z"
     },
     {
       "id": "bird-0307",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp32y7f9gj8n",
+      "birdId": "bird-0306",
+      "birdName": "Gilded Flicker",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:37:55.755Z"
+    },
     {
       "id": "mwp32skjwf20n",
       "birdId": "bird-0307",
