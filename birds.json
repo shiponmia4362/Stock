@@ -796,9 +796,9 @@
       "id": "bird-0100",
       "name": "Snail Kite",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:40:37.478Z"
     },
     {
       "id": "bird-0101",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1197qkcxle",
+      "birdId": "bird-0100",
+      "birdName": "Snail Kite",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:40:37.478Z"
+    },
     {
       "id": "mwp10dw734ywg",
       "birdId": "bird-0125",
