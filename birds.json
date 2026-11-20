@@ -2188,9 +2188,9 @@
       "id": "bird-0274",
       "name": "Mountain Chickadee",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:37:00.503Z"
     },
     {
       "id": "bird-0275",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0wlsnssfj4",
+      "birdId": "bird-0274",
+      "birdName": "Mountain Chickadee",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:37:00.503Z"
+    },
     {
       "id": "mwp0wfjb5y6ey",
       "birdId": "bird-0275",
