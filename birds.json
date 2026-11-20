@@ -2292,9 +2292,9 @@
       "id": "bird-0287",
       "name": "Canada Warbler",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:37:02.315Z"
     },
     {
       "id": "bird-0288",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp31syzr05x9",
+      "birdId": "bird-0287",
+      "birdName": "Canada Warbler",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:37:02.315Z"
+    },
     {
       "id": "mwp31m5nhi2tg",
       "birdId": "bird-0282",
