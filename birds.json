@@ -1780,9 +1780,9 @@
       "id": "bird-0223",
       "name": "Scissor-tailed Flycatcher",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:27:04.264Z"
     },
     {
       "id": "bird-0224",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0jtqgaaozm",
+      "birdId": "bird-0223",
+      "birdName": "Scissor-tailed Flycatcher",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:27:04.264Z"
+    },
     {
       "id": "mwp0jhs0pltla",
       "birdId": "bird-0180",
