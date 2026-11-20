@@ -1004,9 +1004,9 @@
       "id": "bird-0126",
       "name": "Horned Puffin",
       "country": "Others",
-      "status": "rejected",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T12:40:44.382Z"
+      "updatedAt": "2026-11-20T13:39:18.455Z"
     },
     {
       "id": "bird-0127",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0zk8nevp5g",
+      "birdId": "bird-0126",
+      "birdName": "Horned Puffin",
+      "action": "accepted",
+      "detail": "Rejected → Accepted",
+      "at": "2026-11-20T13:39:18.455Z"
+    },
     {
       "id": "mwp0zazbipsmu",
       "birdId": "bird-0129",
