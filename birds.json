@@ -2892,9 +2892,9 @@
       "id": "bird-0362",
       "name": "Swallow-tailed Kite",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:09:12.389Z"
     },
     {
       "id": "bird-0363",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp220g5mb0xc",
+      "birdId": "bird-0362",
+      "birdName": "Swallow-tailed Kite",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:09:12.389Z"
+    },
     {
       "id": "mwp20tp92o83z",
       "birdId": "bird-0808",
