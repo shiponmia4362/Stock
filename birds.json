@@ -3020,9 +3020,9 @@
       "id": "bird-0378",
       "name": "Barn Swallow",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:12:06.556Z"
     },
     {
       "id": "bird-0379",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp25qu5s9br4",
+      "birdId": "bird-0378",
+      "birdName": "Barn Swallow",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:12:06.557Z"
+    },
     {
       "id": "mwp24x1gaq93o",
       "birdId": "bird-0094",
