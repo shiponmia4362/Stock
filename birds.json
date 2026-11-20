@@ -1676,9 +1676,9 @@
       "id": "bird-0210",
       "name": "Horned Lark",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:23:34.876Z"
     },
     {
       "id": "bird-0211",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2khy49sqi9",
+      "birdId": "bird-0210",
+      "birdName": "Horned Lark",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:23:34.876Z"
+    },
     {
       "id": "mwp2k9xgh34uu",
       "birdId": "bird-0253",
