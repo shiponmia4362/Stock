@@ -660,9 +660,9 @@
       "id": "bird-0083",
       "name": "Great Gray Owl",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:30:25.502Z"
     },
     {
       "id": "bird-0084",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyiz8eena7m",
+      "birdId": "bird-0083",
+      "birdName": "Great Gray Owl",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:30:25.502Z"
+    },
     {
       "id": "mwoyilo68zsen",
       "birdId": "bird-0087",
