@@ -2076,9 +2076,9 @@
       "id": "bird-0260",
       "name": "White-winged Tern",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:34:23.902Z"
     },
     {
       "id": "bird-0261",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyo36mpw6l4",
+      "birdId": "bird-0260",
+      "birdName": "White-winged Tern",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:34:23.902Z"
+    },
     {
       "id": "mwoyns6mrr742",
       "birdId": "bird-0022",
