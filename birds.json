@@ -956,9 +956,9 @@
       "id": "bird-0120",
       "name": "Crested Caracara",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:37:01.534Z"
     },
     {
       "id": "bird-0121",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyrgtazqrr8",
+      "birdId": "bird-0120",
+      "birdName": "Crested Caracara",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:37:01.534Z"
+    },
     {
       "id": "mwoyqtwux9zg3",
       "birdId": "bird-0118",
