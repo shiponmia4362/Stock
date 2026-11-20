@@ -2548,9 +2548,9 @@
       "id": "bird-0319",
       "name": "Wilson's Phalarope",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T15:45:41.854Z"
     },
     {
       "id": "bird-0320",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5i3mmxk8ok",
+      "birdId": "bird-0319",
+      "birdName": "Wilson's Phalarope",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T15:45:41.854Z"
+    },
     {
       "id": "mwp5hydiw57sx",
       "birdId": "bird-0326",
