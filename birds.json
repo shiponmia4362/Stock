@@ -2156,9 +2156,9 @@
       "id": "bird-0270",
       "name": "Mangrove Yellow Warbler",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:36:12.462Z"
     },
     {
       "id": "bird-0271",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyqey6ptiqt",
+      "birdId": "bird-0270",
+      "birdName": "Mangrove Yellow Warbler",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:36:12.462Z"
+    },
     {
       "id": "mwoyq4la8xpq8",
       "birdId": "bird-0725",
