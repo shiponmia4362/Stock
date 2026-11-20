@@ -2372,9 +2372,9 @@
       "id": "bird-0297",
       "name": "Bobolink",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:21:36.944Z"
     },
     {
       "id": "bird-0298",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0ct6854sui",
+      "birdId": "bird-0297",
+      "birdName": "Bobolink",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:21:36.944Z"
+    },
     {
       "id": "mwp0clbk0ncp2",
       "birdId": "bird-0010",
