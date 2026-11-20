@@ -1460,9 +1460,9 @@
       "id": "bird-0183",
       "name": "Willow Flycatcher",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:20:14.935Z"
     },
     {
       "id": "bird-0184",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoy5w476aks0",
+      "birdId": "bird-0183",
+      "birdName": "Willow Flycatcher",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:20:14.935Z"
+    },
     {
       "id": "mwoy5m541ar8d",
       "birdId": "bird-0232",
