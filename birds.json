@@ -1060,9 +1060,9 @@
       "id": "bird-0133",
       "name": "Bullock's Oriole",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:27:58.886Z"
     },
     {
       "id": "bird-0134",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyfu3qig2gw",
+      "birdId": "bird-0133",
+      "birdName": "Bullock's Oriole",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:27:58.886Z"
+    },
     {
       "id": "mwoyeyoeiki12",
       "birdId": "bird-0104",
