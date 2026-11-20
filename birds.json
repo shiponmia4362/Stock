@@ -1956,9 +1956,9 @@
       "id": "bird-0245",
       "name": "Blackburnian Warbler",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:37:22.639Z"
     },
     {
       "id": "bird-0246",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0x2vjz0bqx",
+      "birdId": "bird-0245",
+      "birdName": "Blackburnian Warbler",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:37:22.639Z"
+    },
     {
       "id": "mwp0wtxb1g94k",
       "birdId": "bird-0241",
