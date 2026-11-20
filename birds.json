@@ -2116,9 +2116,9 @@
       "id": "bird-0265",
       "name": "Northern Yellow Warbler",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:35:42.174Z"
     },
     {
       "id": "bird-0266",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyprkuk76hb",
+      "birdId": "bird-0265",
+      "birdName": "Northern Yellow Warbler",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:35:42.174Z"
+    },
     {
       "id": "mwoypfiufz5em",
       "birdId": "bird-0117",
