@@ -6580,12 +6580,20 @@
       "id": "mwp7eutjk4xkd",
       "name": "Great Shearwater",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T16:39:09.703Z",
-      "updatedAt": "2026-11-20T16:39:09.703Z"
+      "updatedAt": "2026-11-20T16:39:18.812Z"
     }
   ],
   "logs": [
+    {
+      "id": "mwp7f1ukk55wj",
+      "birdId": "mwp7eutjk4xkd",
+      "birdName": "Great Shearwater",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T16:39:18.812Z"
+    },
     {
       "id": "mwp7eutjrbcde",
       "birdId": "mwp7eutjk4xkd",
