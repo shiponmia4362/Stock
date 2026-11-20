@@ -420,9 +420,9 @@
       "id": "bird-0053",
       "name": "Broad-winged Hawk",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:56:03.869Z"
     },
     {
       "id": "bird-0054",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1l40ttrihh",
+      "birdId": "bird-0053",
+      "birdName": "Broad-winged Hawk",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:56:03.869Z"
+    },
     {
       "id": "mwp1ktaeqg0uf",
       "birdId": "bird-0054",
