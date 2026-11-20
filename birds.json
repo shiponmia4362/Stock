@@ -4668,9 +4668,9 @@
       "id": "bird-0584",
       "name": "Ancient Murrelet",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:03:31.365Z"
     },
     {
       "id": "bird-0585",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1upb9ubwwo",
+      "birdId": "bird-0584",
+      "birdName": "Ancient Murrelet",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:03:31.365Z"
+    },
     {
       "id": "mwp1u6mlev5qf",
       "birdId": "bird-0234",
