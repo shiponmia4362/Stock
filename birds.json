@@ -268,9 +268,9 @@
       "id": "bird-0035",
       "name": "Mexican Whip-poor-will",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T17:59:49.922Z"
     },
     {
       "id": "bird-0036",
@@ -6585,5 +6585,14 @@
       "updatedAt": "2026-11-20T17:13:27.322Z"
     }
   ],
-  "logs": []
+  "logs": [
+    {
+      "id": "mwpaalk21s5st",
+      "birdId": "bird-0035",
+      "birdName": "Mexican Whip-poor-will",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T17:59:49.922Z"
+    }
+  ]
 }
