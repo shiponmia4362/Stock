@@ -2252,9 +2252,9 @@
       "id": "bird-0282",
       "name": "Calliope Hummingbird",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:36:53.483Z"
     },
     {
       "id": "bird-0283",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp31m5nhi2tg",
+      "birdId": "bird-0282",
+      "birdName": "Calliope Hummingbird",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:36:53.483Z"
+    },
     {
       "id": "mwp31f77dau3t",
       "birdId": "bird-0288",
