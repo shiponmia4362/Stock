@@ -5988,9 +5988,9 @@
       "id": "bird-0749",
       "name": "Black-vented Oriole",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:45:04.653Z"
     },
     {
       "id": "bird-0750",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoz1tl90cfeg",
+      "birdId": "bird-0749",
+      "birdName": "Black-vented Oriole",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:45:04.653Z"
+    },
     {
       "id": "mwoz1i3h5noie",
       "birdId": "bird-0156",
