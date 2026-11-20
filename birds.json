@@ -1468,9 +1468,9 @@
       "id": "bird-0184",
       "name": "Dark-eyed Junco",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:30:04.875Z"
     },
     {
       "id": "bird-0185",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2suvfpmwf0",
+      "birdId": "bird-0184",
+      "birdName": "Dark-eyed Junco",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:30:04.875Z"
+    },
     {
       "id": "mwp2snbnmzasl",
       "birdId": "bird-0188",
