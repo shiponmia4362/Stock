@@ -108,9 +108,9 @@
       "id": "bird-0014",
       "name": "Long-tailed Duck",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:58:30.117Z"
     },
     {
       "id": "bird-0015",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1o8v9osrg3",
+      "birdId": "bird-0014",
+      "birdName": "Long-tailed Duck",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:58:30.117Z"
+    },
     {
       "id": "mwp1o1da8prbc",
       "birdId": "bird-0017",
