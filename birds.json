@@ -2132,9 +2132,9 @@
       "id": "bird-0267",
       "name": "Eastern Warbling Vireo",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:50:05.350Z"
     },
     {
       "id": "bird-0268",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1dfdy4wjj0",
+      "birdId": "bird-0267",
+      "birdName": "Eastern Warbling Vireo",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:50:05.350Z"
+    },
     {
       "id": "mwp1bvhy3l3sq",
       "birdId": "bird-0110",
