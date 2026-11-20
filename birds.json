@@ -6100,9 +6100,9 @@
       "id": "bird-0763",
       "name": "Mealy Amazon",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:46:31.653Z"
     },
     {
       "id": "bird-0764",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoz3opxuab6g",
+      "birdId": "bird-0763",
+      "birdName": "Mealy Amazon",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:46:31.653Z"
+    },
     {
       "id": "mwoz3cj9ifzth",
       "birdId": "bird-0735",
