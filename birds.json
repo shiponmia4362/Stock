@@ -756,9 +756,9 @@
       "id": "bird-0095",
       "name": "Cerulean Warbler",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:41:17.062Z"
     },
     {
       "id": "bird-0096",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp123raq74az",
+      "birdId": "bird-0095",
+      "birdName": "Cerulean Warbler",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:41:17.062Z"
+    },
     {
       "id": "mwp11ydio5coz",
       "birdId": "bird-0093",
