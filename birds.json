@@ -2628,9 +2628,9 @@
       "id": "bird-0329",
       "name": "Gray Catbird",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:19:30.396Z"
     },
     {
       "id": "bird-0330",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2f9b06qmw4",
+      "birdId": "bird-0329",
+      "birdName": "Gray Catbird",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:19:30.396Z"
+    },
     {
       "id": "mwp2euho7osqd",
       "birdId": "bird-0251",
