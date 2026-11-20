@@ -484,9 +484,9 @@
       "id": "bird-0061",
       "name": "Bald Eagle",
       "country": "Others",
-      "status": "rejected",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T12:48:35.589Z"
+      "updatedAt": "2026-11-20T13:54:50.638Z"
     },
     {
       "id": "bird-0062",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1jjimz6479",
+      "birdId": "bird-0061",
+      "birdName": "Bald Eagle",
+      "action": "accepted",
+      "detail": "Rejected → Accepted",
+      "at": "2026-11-20T13:54:50.638Z"
+    },
     {
       "id": "mwp1jd920d4j2",
       "birdId": "bird-0072",
