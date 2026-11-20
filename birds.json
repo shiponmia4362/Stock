@@ -1052,9 +1052,9 @@
       "id": "bird-0132",
       "name": "King Eider",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:27:02.318Z"
     },
     {
       "id": "bird-0133",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyemgepflo0",
+      "birdId": "bird-0132",
+      "birdName": "King Eider",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:27:02.318Z"
+    },
     {
       "id": "mwoye6t35fuwm",
       "birdId": "bird-0105",
