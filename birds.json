@@ -2468,9 +2468,9 @@
       "id": "bird-0309",
       "name": "Virginia's Warbler",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:39:55.963Z"
     },
     {
       "id": "bird-0310",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp35iyjdlmjt",
+      "birdId": "bird-0309",
+      "birdName": "Virginia's Warbler",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:39:55.963Z"
+    },
     {
       "id": "mwp35e9fbigxc",
       "birdId": "bird-0289",
