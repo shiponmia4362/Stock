@@ -380,9 +380,9 @@
       "id": "bird-0048",
       "name": "Ruffed Grouse",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:26:36.412Z"
     },
     {
       "id": "bird-0049",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2oe0st6ijp",
+      "birdId": "bird-0048",
+      "birdName": "Ruffed Grouse",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:26:36.412Z"
+    },
     {
       "id": "mwp2o7p0armla",
       "birdId": "bird-0051",
