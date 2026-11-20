@@ -1172,9 +1172,9 @@
       "id": "bird-0147",
       "name": "Golden-winged Warbler",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:36:38.031Z"
     },
     {
       "id": "bird-0148",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0w4gfbmk58",
+      "birdId": "bird-0147",
+      "birdName": "Golden-winged Warbler",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:36:38.031Z"
+    },
     {
       "id": "mwp0vuljyijun",
       "birdId": "bird-0148",
