@@ -1108,9 +1108,9 @@
       "id": "bird-0139",
       "name": "Vaux's Swift",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:25:20.022Z"
     },
     {
       "id": "bird-0140",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoycfiu9285d",
+      "birdId": "bird-0139",
+      "birdName": "Vaux's Swift",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:25:20.022Z"
+    },
     {
       "id": "mwoybyhrezsdl",
       "birdId": "bird-0161",
