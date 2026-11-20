@@ -1412,9 +1412,9 @@
       "id": "bird-0177",
       "name": "Black-and-white Warbler",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:30:34.840Z"
     },
     {
       "id": "bird-0178",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0oc7spy87d",
+      "birdId": "bird-0177",
+      "birdName": "Black-and-white Warbler",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:30:34.840Z"
+    },
     {
       "id": "mwp0nrivuf3l2",
       "birdId": "bird-0176",
