@@ -780,9 +780,9 @@
       "id": "bird-0098",
       "name": "Yellow-billed Cuckoo",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:41:30.046Z"
     },
     {
       "id": "bird-0099",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp12dryeje1j",
+      "birdId": "bird-0098",
+      "birdName": "Yellow-billed Cuckoo",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:41:30.046Z"
+    },
     {
       "id": "mwp123raq74az",
       "birdId": "bird-0095",
