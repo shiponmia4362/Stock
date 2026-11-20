@@ -1908,9 +1908,9 @@
       "id": "bird-0239",
       "name": "Song Sparrow",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:37:33.064Z"
     },
     {
       "id": "bird-0240",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0xax4wgv1k",
+      "birdId": "bird-0239",
+      "birdName": "Song Sparrow",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:37:33.064Z"
+    },
     {
       "id": "mwp0x2vjz0bqx",
       "birdId": "bird-0245",
