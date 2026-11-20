@@ -2836,9 +2836,9 @@
       "id": "bird-0355",
       "name": "Razorbill",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:02:26.869Z"
     },
     {
       "id": "bird-0356",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1tbjpqi435",
+      "birdId": "bird-0355",
+      "birdName": "Razorbill",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:02:26.869Z"
+    },
     {
       "id": "mwp1t3mlin23j",
       "birdId": "bird-0443",
