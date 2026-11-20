@@ -156,9 +156,9 @@
       "id": "bird-0020",
       "name": "Black Swift",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:59:25.029Z"
     },
     {
       "id": "bird-0021",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1pf8l16uhr",
+      "birdId": "bird-0020",
+      "birdName": "Black Swift",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:59:25.029Z"
+    },
     {
       "id": "mwp1p6mey94qq",
       "birdId": "bird-0259",
