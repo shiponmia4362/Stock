@@ -2540,9 +2540,9 @@
       "id": "bird-0318",
       "name": "Double-crested Cormorant",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T15:43:08.575Z"
     },
     {
       "id": "bird-0319",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5etcvsmjvp",
+      "birdId": "bird-0318",
+      "birdName": "Double-crested Cormorant",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T15:43:08.575Z"
+    },
     {
       "id": "mwp5enafp5n47",
       "birdId": "bird-0314",
