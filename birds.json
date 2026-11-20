@@ -3548,9 +3548,9 @@
       "id": "bird-0444",
       "name": "Guadalupe Murrelet",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:40:53.094Z"
     },
     {
       "id": "bird-0445",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoywfhielcr6",
+      "birdId": "bird-0444",
+      "birdName": "Guadalupe Murrelet",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:40:53.094Z"
+    },
     {
       "id": "mwoyw8rilfygs",
       "birdId": "bird-0126",
