@@ -572,9 +572,9 @@
       "id": "bird-0072",
       "name": "Black-crowned Night Heron",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:54:42.518Z"
     },
     {
       "id": "bird-0073",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1jd920d4j2",
+      "birdId": "bird-0072",
+      "birdName": "Black-crowned Night Heron",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:54:42.518Z"
+    },
     {
       "id": "mwp1j1fa9o0ln",
       "birdId": "bird-0069",
