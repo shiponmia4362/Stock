@@ -3612,9 +3612,9 @@
       "id": "bird-0452",
       "name": "Eastern Phoebe",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:10:46.660Z"
     },
     {
       "id": "bird-0453",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2416simo7x",
+      "birdId": "bird-0452",
+      "birdName": "Eastern Phoebe",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:10:46.660Z"
+    },
     {
       "id": "mwp22q4lqfoob",
       "birdId": "bird-0062",
