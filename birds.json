@@ -492,9 +492,9 @@
       "id": "bird-0062",
       "name": "Golden Eagle",
       "country": "Others",
-      "status": "rejected",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T12:32:09.702Z"
+      "updatedAt": "2026-11-20T14:09:45.669Z"
     },
     {
       "id": "bird-0063",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp22q4lqfoob",
+      "birdId": "bird-0062",
+      "birdName": "Golden Eagle",
+      "action": "accepted",
+      "detail": "Rejected → Accepted",
+      "at": "2026-11-20T14:09:45.669Z"
+    },
     {
       "id": "mwp22esl4ft14",
       "birdId": "bird-0189",
