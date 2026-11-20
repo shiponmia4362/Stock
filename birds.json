@@ -44,9 +44,9 @@
       "id": "bird-0006",
       "name": "Black Skimmer",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T15:46:01.719Z"
     },
     {
       "id": "bird-0007",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5iiyf1jhg6",
+      "birdId": "bird-0006",
+      "birdName": "Black Skimmer",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T15:46:01.719Z"
+    },
     {
       "id": "mwp5i3mmxk8ok",
       "birdId": "bird-0319",
