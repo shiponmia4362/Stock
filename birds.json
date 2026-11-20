@@ -1668,9 +1668,9 @@
       "id": "bird-0209",
       "name": "Mexican Jay",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:27:30.980Z"
     },
     {
       "id": "bird-0210",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2pk4kx3vy7",
+      "birdId": "bird-0209",
+      "birdName": "Mexican Jay",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:27:30.980Z"
+    },
     {
       "id": "mwp2parvy6kqe",
       "birdId": "bird-0202",
