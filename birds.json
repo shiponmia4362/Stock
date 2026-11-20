@@ -1580,9 +1580,9 @@
       "id": "bird-0198",
       "name": "Yellow Rail",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:25:46.575Z"
     },
     {
       "id": "bird-0199",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0i5sfyli0x",
+      "birdId": "bird-0198",
+      "birdName": "Yellow Rail",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:25:46.575Z"
+    },
     {
       "id": "mwp0hx2og95fy",
       "birdId": "bird-0044",
