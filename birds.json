@@ -2524,9 +2524,9 @@
       "id": "bird-0316",
       "name": "Snowy Egret",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T15:45:09.334Z"
     },
     {
       "id": "bird-0317",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5hejayxf9f",
+      "birdId": "bird-0316",
+      "birdName": "Snowy Egret",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T15:45:09.334Z"
+    },
     {
       "id": "mwp5h9dr3kmsx",
       "birdId": "bird-0323",
