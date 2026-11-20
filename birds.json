@@ -340,9 +340,9 @@
       "id": "bird-0043",
       "name": "Red-tailed Hawk",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:18:22.324Z"
     },
     {
       "id": "bird-0044",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2dss4zbqfh",
+      "birdId": "bird-0043",
+      "birdName": "Red-tailed Hawk",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:18:22.324Z"
+    },
     {
       "id": "mwp2cyzwo388m",
       "birdId": "bird-0022",
