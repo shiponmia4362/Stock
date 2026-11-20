@@ -1748,9 +1748,9 @@
       "id": "bird-0219",
       "name": "White-breasted Nuthatch",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:12:52.861Z"
     },
     {
       "id": "bird-0220",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp26qkds591k",
+      "birdId": "bird-0219",
+      "birdName": "White-breasted Nuthatch",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:12:52.861Z"
+    },
     {
       "id": "mwp25qu5s9br4",
       "birdId": "bird-0378",
