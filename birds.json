@@ -652,9 +652,9 @@
       "id": "bird-0082",
       "name": "Sandhill Crane",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:47:04.893Z"
     },
     {
       "id": "bird-0083",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoz4ed94qx5t",
+      "birdId": "bird-0082",
+      "birdName": "Sandhill Crane",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:47:04.893Z"
+    },
     {
       "id": "mwoz45vpi3qog",
       "birdId": "bird-0810",
