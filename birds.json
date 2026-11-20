@@ -7,17 +7,17 @@
       "status": "rejected",
       "createdAt": "2026-11-20T11:15:36.868Z",
       "updatedAt": "2026-11-20T11:25:41.827Z"
-    },
-    {
-      "id": "mwow106cru6gs",
-      "name": "Great Shearwater",
-      "country": "Others",
-      "status": "accepted",
-      "createdAt": "2026-11-20T11:20:27.684Z",
-      "updatedAt": "2026-11-20T11:23:01.627Z"
     }
   ],
   "logs": [
+    {
+      "id": "mwowz2khck7xa",
+      "birdId": "mwow106cru6gs",
+      "birdName": "Great Shearwater",
+      "action": "delete",
+      "detail": "Deleted permanently",
+      "at": "2026-11-20T11:46:57.089Z"
+    },
     {
       "id": "mwowywwhrrth0",
       "birdId": "mwow1kx7dypiy",
