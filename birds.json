@@ -636,9 +636,9 @@
       "id": "bird-0080",
       "name": "Turkey Vulture",
       "country": "Others",
-      "status": "rejected",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T12:47:11.829Z"
+      "updatedAt": "2026-11-20T13:42:55.863Z"
     },
     {
       "id": "bird-0081",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp147zr5p735",
+      "birdId": "bird-0080",
+      "birdName": "Turkey Vulture",
+      "action": "accepted",
+      "detail": "Rejected → Accepted",
+      "at": "2026-11-20T13:42:55.863Z"
+    },
     {
       "id": "mwp14092ar871",
       "birdId": "bird-0086",
