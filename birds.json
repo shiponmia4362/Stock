@@ -60,9 +60,9 @@
       "id": "bird-0008",
       "name": "Magnolia Warbler",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T15:46:57.775Z"
     },
     {
       "id": "bird-0009",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5jq7jzp91g",
+      "birdId": "bird-0008",
+      "birdName": "Magnolia Warbler",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T15:46:57.775Z"
+    },
     {
       "id": "mwp5j12mw0l0z",
       "birdId": "bird-0002",
