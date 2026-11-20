@@ -180,9 +180,9 @@
       "id": "bird-0023",
       "name": "Whooping Crane",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:21:11.880Z"
     },
     {
       "id": "bird-0024",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0c9u0vsox1",
+      "birdId": "bird-0023",
+      "birdName": "Whooping Crane",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:21:11.880Z"
+    },
     {
       "id": "mwp0c2ioxqwxi",
       "birdId": "bird-0040",
