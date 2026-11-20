@@ -924,9 +924,9 @@
       "id": "bird-0116",
       "name": "Barred Owl",
       "country": "Others",
-      "status": "rejected",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T12:48:46.653Z"
+      "updatedAt": "2026-11-20T13:23:01.807Z"
     },
     {
       "id": "bird-0117",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0emnjg7yuw",
+      "birdId": "bird-0116",
+      "birdName": "Barred Owl",
+      "action": "accepted",
+      "detail": "Rejected → Accepted",
+      "at": "2026-11-20T13:23:01.807Z"
+    },
     {
       "id": "mwp0efjk7x68b",
       "birdId": "bird-0256",
