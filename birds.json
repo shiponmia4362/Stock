@@ -2180,9 +2180,9 @@
       "id": "bird-0273",
       "name": "White-throated Thrush",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:26:14.503Z"
     },
     {
       "id": "bird-0274",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoydlk7aaor4",
+      "birdId": "bird-0273",
+      "birdName": "White-throated Thrush",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:26:14.503Z"
+    },
     {
       "id": "mwoyd8kmdevv6",
       "birdId": "bird-0144",
