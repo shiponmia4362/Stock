@@ -2204,9 +2204,9 @@
       "id": "bird-0276",
       "name": "Black Turnstone",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:30:45.107Z"
     },
     {
       "id": "bird-0277",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2tpwzmt5nx",
+      "birdId": "bird-0276",
+      "birdName": "Black Turnstone",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:30:45.107Z"
+    },
     {
       "id": "mwp2tc6ktc5ub",
       "birdId": "bird-0185",
