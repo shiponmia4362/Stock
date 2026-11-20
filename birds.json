@@ -124,9 +124,9 @@
       "id": "bird-0016",
       "name": "Dunlin",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:59:04.157Z"
     },
     {
       "id": "bird-0017",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1oz4tig1x6",
+      "birdId": "bird-0016",
+      "birdName": "Dunlin",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:59:04.157Z"
+    },
     {
       "id": "mwp1os0tox29u",
       "birdId": "bird-0019",
