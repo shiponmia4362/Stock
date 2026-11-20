@@ -2532,9 +2532,9 @@
       "id": "bird-0317",
       "name": "Mute Swan",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T15:44:25.558Z"
     },
     {
       "id": "bird-0318",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5ggra7nvv8",
+      "birdId": "bird-0317",
+      "birdName": "Mute Swan",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T15:44:25.558Z"
+    },
     {
       "id": "mwp5gaq70jma1",
       "birdId": "bird-0321",
