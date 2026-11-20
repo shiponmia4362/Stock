@@ -604,9 +604,9 @@
       "id": "bird-0076",
       "name": "Western Screech-Owl",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:44:00.486Z"
     },
     {
       "id": "bird-0077",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp15luurzhvq",
+      "birdId": "bird-0076",
+      "birdName": "Western Screech-Owl",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:44:00.486Z"
+    },
     {
       "id": "mwp15d0n1en68",
       "birdId": "bird-0262",
