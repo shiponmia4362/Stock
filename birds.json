@@ -2644,9 +2644,9 @@
       "id": "bird-0331",
       "name": "California Gnatcatcher",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:40:52.955Z"
     },
     {
       "id": "bird-0332",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp36qxnqwkh7",
+      "birdId": "bird-0331",
+      "birdName": "California Gnatcatcher",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:40:52.955Z"
+    },
     {
       "id": "mwp36kf71tg4o",
       "birdId": "bird-0332",
