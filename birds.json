@@ -684,9 +684,9 @@
       "id": "bird-0086",
       "name": "Dickcissel",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:42:45.830Z"
     },
     {
       "id": "bird-0087",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp14092ar871",
+      "birdId": "bird-0086",
+      "birdName": "Dickcissel",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:42:45.830Z"
+    },
     {
       "id": "mwp13i3r3cb3g",
       "birdId": "bird-0088",
