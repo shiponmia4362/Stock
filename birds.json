@@ -81,14 +81,6 @@
       "updatedAt": "2026-11-20T13:21:26.768Z"
     },
     {
-      "id": "bird-0011",
-      "name": "Great Shearwater",
-      "country": "Others",
-      "status": "rejected",
-      "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T12:34:33.254Z"
-    },
-    {
       "id": "bird-0012",
       "name": "Band-rumped Storm-Petrel",
       "country": "Others",
@@ -6585,5 +6577,14 @@
       "updatedAt": "2026-11-20T11:59:53.274Z"
     }
   ],
-  "logs": []
+  "logs": [
+    {
+      "id": "mwp6vajh0iljx",
+      "birdId": "bird-0011",
+      "birdName": "Great Shearwater",
+      "action": "delete",
+      "detail": "Deleted permanently",
+      "at": "2026-11-20T16:23:56.957Z"
+    }
+  ]
 }
