@@ -1,58 +1,62 @@
-[
-  {
-    "id": "mwovurs43kylv",
-    "name": "Short-tailed Shearwater",
-    "country": "Others",
-    "status": "rejected",
-    "createdAt": "2026-11-20T11:15:36.868Z",
-    "updatedAt": "2026-11-20T11:25:41.827Z"
-  },
-  {
-    "id": "mwow106cru6gs",
-    "name": "Great Shearwater",
-    "country": "Others",
-    "status": "accepted",
-    "createdAt": "2026-11-20T11:20:27.684Z",
-    "updatedAt": "2026-11-20T11:23:01.627Z"
-  },
-  {
-    "id": "mwow1kx7dypiy",
-    "name": "Band-rumped Storm-Petrel",
-    "country": "Others",
-    "status": "working",
-    "createdAt": "2026-11-20T11:20:54.571Z",
-    "updatedAt": "2026-11-20T11:20:54.571Z"
-  },
-  {
-    "id": "mwow1zy4jpplr",
-    "name": "Long-tailed Duck",
-    "country": "Others",
-    "status": "accepted",
-    "createdAt": "2026-11-20T11:21:14.044Z",
-    "updatedAt": "2026-11-20T11:23:43.627Z"
-  },
-  {
-    "id": "mwow2kf7cbby2",
-    "name": "European Starling",
-    "country": "Others",
-    "status": "working",
-    "createdAt": "2026-11-20T11:21:40.579Z",
-    "updatedAt": "2026-11-20T11:21:40.579Z"
-  },
-  {
-    "id": "mwow38yjjm93r",
-    "name": "Dunlin",
-    "country": "Others",
-    "status": "accepted",
-    "createdAt": "2026-11-20T11:22:12.379Z",
-    "updatedAt": "2026-11-20T11:22:56.931Z"
-  },
-  {
-    "id": "mwowbaajae3u1",
-    "name": "Rock Pigeon",
-    "country": "Others",
-    "status": "working",
-    "createdAt": "2026-11-20T11:28:27.355Z",
-    "updatedAt": "2026-11-20T11:28:27.355Z"
-  }
-]
+{
+  "birds": [
+    {
+      "id": "mwovurs43kylv",
+      "name": "Short-tailed Shearwater",
+      "country": "Others",
+      "status": "rejected",
+      "createdAt": "2026-11-20T11:15:36.868Z",
+      "updatedAt": "2026-11-20T11:25:41.827Z"
+    },
+    {
+      "id": "mwow106cru6gs",
+      "name": "Great Shearwater",
+      "country": "Others",
+      "status": "accepted",
+      "createdAt": "2026-11-20T11:20:27.684Z",
+      "updatedAt": "2026-11-20T11:23:01.627Z"
+    },
+    {
+      "id": "mwow1kx7dypiy",
+      "name": "Band-rumped Storm-Petrel",
+      "country": "Others",
+      "status": "working",
+      "createdAt": "2026-11-20T11:20:54.571Z",
+      "updatedAt": "2026-11-20T11:20:54.571Z"
+    },
+    {
+      "id": "mwow2kf7cbby2",
+      "name": "European Starling",
+      "country": "Others",
+      "status": "working",
+      "createdAt": "2026-11-20T11:21:40.579Z",
+      "updatedAt": "2026-11-20T11:21:40.579Z"
+    },
+    {
+      "id": "mwow38yjjm93r",
+      "name": "Dunlin",
+      "country": "Others",
+      "status": "accepted",
+      "createdAt": "2026-11-20T11:22:12.379Z",
+      "updatedAt": "2026-11-20T11:22:56.931Z"
+    },
+    {
+      "id": "mwowbaajae3u1",
+      "name": "Rock Pigeon",
+      "country": "Others",
+      "status": "working",
+      "createdAt": "2026-11-20T11:28:27.355Z",
+      "updatedAt": "2026-11-20T11:28:27.355Z"
+    }
+  ],
+  "logs": [
+    {
+      "id": "mwowummagqhhe",
+      "birdId": "mwow1zy4jpplr",
+      "birdName": "Long-tailed Duck",
+      "action": "delete",
+      "detail": "Deleted permanently",
+      "at": "2026-11-20T11:43:29.794Z"
+    }
+  ]
+}
