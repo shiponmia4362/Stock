@@ -5788,9 +5788,9 @@
       "id": "bird-0724",
       "name": "Thick-billed Parrot",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:07:05.901Z"
     },
     {
       "id": "bird-0725",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1zaulpxym7",
+      "birdId": "bird-0724",
+      "birdName": "Thick-billed Parrot",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:07:05.901Z"
+    },
     {
       "id": "mwp1yzzhma55a",
       "birdId": "bird-0764",
