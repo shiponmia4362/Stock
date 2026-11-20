@@ -1860,9 +1860,9 @@
       "id": "bird-0233",
       "name": "Whiskered Auklet",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:20:52.047Z"
     },
     {
       "id": "bird-0234",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoy6or3ulwqk",
+      "birdId": "bird-0233",
+      "birdName": "Whiskered Auklet",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:20:52.047Z"
+    },
     {
       "id": "mwoy6gofbaay1",
       "birdId": "bird-0195",
