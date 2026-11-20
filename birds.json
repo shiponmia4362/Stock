@@ -3892,9 +3892,9 @@
       "id": "bird-0487",
       "name": "Yellow-headed Blackbird",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:43:27.861Z"
     },
     {
       "id": "bird-0488",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyzqwlr9ykw",
+      "birdId": "bird-0487",
+      "birdName": "Yellow-headed Blackbird",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:43:27.861Z"
+    },
     {
       "id": "mwoyz81xlo3g7",
       "birdId": "bird-0193",
