@@ -2164,9 +2164,9 @@
       "id": "bird-0271",
       "name": "Southern House Wren",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:48:06.966Z"
     },
     {
       "id": "bird-0272",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1aw1ivxee4",
+      "birdId": "bird-0271",
+      "birdName": "Southern House Wren",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:48:06.966Z"
+    },
     {
       "id": "mwp1633ax9vk1",
       "birdId": "bird-0158",
