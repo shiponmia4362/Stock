@@ -548,9 +548,9 @@
       "id": "bird-0069",
       "name": "Greater Sage-Grouse",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:54:27.190Z"
     },
     {
       "id": "bird-0070",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1j1fa9o0ln",
+      "birdId": "bird-0069",
+      "birdName": "Greater Sage-Grouse",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:54:27.190Z"
+    },
     {
       "id": "mwp1iqvi3l24f",
       "birdId": "bird-0068",
