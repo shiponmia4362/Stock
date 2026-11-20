@@ -812,9 +812,9 @@
       "id": "bird-0102",
       "name": "Least Bittern",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:40:53.855Z"
     },
     {
       "id": "bird-0103",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp11luntw29o",
+      "birdId": "bird-0102",
+      "birdName": "Least Bittern",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:40:53.855Z"
+    },
     {
       "id": "mwp1197qkcxle",
       "birdId": "bird-0100",
