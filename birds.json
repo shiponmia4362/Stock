@@ -6124,9 +6124,9 @@
       "id": "bird-0766",
       "name": "Yellow-headed Amazon",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:06:42.197Z"
     },
     {
       "id": "bird-0767",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1ysk53ia6e",
+      "birdId": "bird-0766",
+      "birdName": "Yellow-headed Amazon",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:06:42.197Z"
+    },
     {
       "id": "mwp1yk1hjd6zw",
       "birdId": "bird-0765",
