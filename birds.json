@@ -1540,9 +1540,9 @@
       "id": "bird-0193",
       "name": "Common Murre",
       "country": "Others",
-      "status": "rejected",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T12:43:03.429Z"
+      "updatedAt": "2026-11-20T14:30:16.372Z"
     },
     {
       "id": "bird-0194",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2t3qsn3kif",
+      "birdId": "bird-0193",
+      "birdName": "Common Murre",
+      "action": "processing",
+      "detail": "Rejected → Processing",
+      "at": "2026-11-20T14:30:16.372Z"
+    },
     {
       "id": "mwp2suvfpmwf0",
       "birdId": "bird-0184",
