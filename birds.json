@@ -3540,9 +3540,9 @@
       "id": "bird-0443",
       "name": "Scripps's Murrelet",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:02:16.605Z"
     },
     {
       "id": "bird-0444",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1t3mlin23j",
+      "birdId": "bird-0443",
+      "birdName": "Scripps's Murrelet",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:02:16.605Z"
+    },
     {
       "id": "mwp1sgvh94zhz",
       "birdId": "bird-0233",
