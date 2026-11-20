@@ -948,9 +948,9 @@
       "id": "bird-0119",
       "name": "Hairy Woodpecker",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:36:22.526Z"
     },
     {
       "id": "bird-0120",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyqmpqj5kuu",
+      "birdId": "bird-0119",
+      "birdName": "Hairy Woodpecker",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:36:22.526Z"
+    },
     {
       "id": "mwoyqey6ptiqt",
       "birdId": "bird-0270",
