@@ -1252,9 +1252,9 @@
       "id": "bird-0157",
       "name": "Rufous Hummingbird",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:32:43.663Z"
     },
     {
       "id": "bird-0158",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0r3m7zfhh8",
+      "birdId": "bird-0157",
+      "birdName": "Rufous Hummingbird",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:32:43.663Z"
+    },
     {
       "id": "mwp0qsx3lcmc6",
       "birdId": "bird-0167",
