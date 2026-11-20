@@ -2100,9 +2100,9 @@
       "id": "bird-0263",
       "name": "Chihuahuan Meadowlark",
       "country": "Others",
-      "status": "rejected",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T12:37:29.046Z"
+      "updatedAt": "2026-11-20T14:05:14.981Z"
     },
     {
       "id": "bird-0264",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1wx9hnr9x6",
+      "birdId": "bird-0263",
+      "birdName": "Chihuahuan Meadowlark",
+      "action": "accepted",
+      "detail": "Rejected → Accepted",
+      "at": "2026-11-20T14:05:14.981Z"
+    },
     {
       "id": "mwp1w9xhql4go",
       "birdId": "bird-0285",
