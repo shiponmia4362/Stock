@@ -20,9 +20,9 @@
       "id": "mwow1kx7dypiy",
       "name": "Band-rumped Storm-Petrel",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:20:54.571Z",
-      "updatedAt": "2026-11-20T11:20:54.571Z"
+      "updatedAt": "2026-11-20T11:43:38.154Z"
     },
     {
       "id": "mwow2kf7cbby2",
@@ -50,6 +50,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwowut2igaxfu",
+      "birdId": "mwow1kx7dypiy",
+      "birdName": "Band-rumped Storm-Petrel",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T11:43:38.154Z"
+    },
     {
       "id": "mwowummagqhhe",
       "birdId": "mwow1zy4jpplr",
