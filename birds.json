@@ -1740,9 +1740,9 @@
       "id": "bird-0218",
       "name": "Red-bellied Woodpecker",
       "country": "Others",
-      "status": "rejected",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T12:47:25.422Z"
+      "updatedAt": "2026-11-20T15:45:19.943Z"
     },
     {
       "id": "bird-0219",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5hmpzehn17",
+      "birdId": "bird-0218",
+      "birdName": "Red-bellied Woodpecker",
+      "action": "processing",
+      "detail": "Rejected → Processing",
+      "at": "2026-11-20T15:45:19.943Z"
+    },
     {
       "id": "mwp5hejayxf9f",
       "birdId": "bird-0316",
