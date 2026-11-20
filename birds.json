@@ -2564,9 +2564,9 @@
       "id": "bird-0321",
       "name": "Lewis's Woodpecker",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T15:44:17.743Z"
     },
     {
       "id": "bird-0322",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5gaq70jma1",
+      "birdId": "bird-0321",
+      "birdName": "Lewis's Woodpecker",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T15:44:17.743Z"
+    },
     {
       "id": "mwp5g3xbmhg5d",
       "birdId": "bird-0327",
