@@ -6564,9 +6564,9 @@
       "id": "bird-0821",
       "name": "White-winged Parakeet",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:46:06.869Z"
     },
     {
       "id": "bird-0822",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoz35lhqisy8",
+      "birdId": "bird-0821",
+      "birdName": "White-winged Parakeet",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:46:06.869Z"
+    },
     {
       "id": "mwoz2w5p0e4o7",
       "birdId": "bird-0802",
