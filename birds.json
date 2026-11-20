@@ -1,15 +1,14 @@
 {
-  "birds": [
-    {
-      "id": "mwovurs43kylv",
-      "name": "Short-tailed Shearwater",
-      "country": "Others",
-      "status": "rejected",
-      "createdAt": "2026-11-20T11:15:36.868Z",
-      "updatedAt": "2026-11-20T11:25:41.827Z"
-    }
-  ],
+  "birds": [],
   "logs": [
+    {
+      "id": "mwowz8ihbbe5i",
+      "birdId": "mwovurs43kylv",
+      "birdName": "Short-tailed Shearwater",
+      "action": "delete",
+      "detail": "Deleted permanently",
+      "at": "2026-11-20T11:47:04.793Z"
+    },
     {
       "id": "mwowz2khck7xa",
       "birdId": "mwow106cru6gs",
