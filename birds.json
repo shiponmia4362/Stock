@@ -1836,9 +1836,9 @@
       "id": "bird-0230",
       "name": "Lilac-crowned Amazon",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:28:12.431Z"
     },
     {
       "id": "bird-0231",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0labz0l5lo",
+      "birdId": "bird-0230",
+      "birdName": "Lilac-crowned Amazon",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:28:12.431Z"
+    },
     {
       "id": "mwp0l36fzazyn",
       "birdId": "bird-0231",
