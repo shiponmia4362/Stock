@@ -212,9 +212,9 @@
       "id": "bird-0027",
       "name": "Sargasso Shearwater",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:56:56.894Z"
     },
     {
       "id": "bird-0028",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1m8xq3nuj4",
+      "birdId": "bird-0027",
+      "birdName": "Sargasso Shearwater",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:56:56.894Z"
+    },
     {
       "id": "mwp1lyut6grzj",
       "birdId": "bird-0032",
