@@ -732,9 +732,9 @@
       "id": "bird-0092",
       "name": "American Robin",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:29:53.655Z"
     },
     {
       "id": "bird-0093",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyianrmc7p3",
+      "birdId": "bird-0092",
+      "birdName": "American Robin",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:29:53.655Z"
+    },
     {
       "id": "mwoyi3fb6lwmd",
       "birdId": "bird-0090",
