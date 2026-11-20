@@ -1380,9 +1380,9 @@
       "id": "bird-0173",
       "name": "Hutton's Vireo",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:28:44.648Z"
     },
     {
       "id": "bird-0174",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0lz6wcw02u",
+      "birdId": "bird-0173",
+      "birdName": "Hutton's Vireo",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:28:44.648Z"
+    },
     {
       "id": "mwp0lr0nvrq47",
       "birdId": "bird-0222",
