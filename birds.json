@@ -5876,9 +5876,9 @@
       "id": "bird-0735",
       "name": "Red-masked Parakeet",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:46:15.861Z"
     },
     {
       "id": "bird-0736",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoz3cj9ifzth",
+      "birdId": "bird-0735",
+      "birdName": "Red-masked Parakeet",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:46:15.861Z"
+    },
     {
       "id": "mwoz35lhqisy8",
       "birdId": "bird-0821",
