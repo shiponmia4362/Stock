@@ -1300,9 +1300,9 @@
       "id": "bird-0163",
       "name": "Northern Parula",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:23:51.279Z"
     },
     {
       "id": "bird-0164",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyaj1rdk6zt",
+      "birdId": "bird-0163",
+      "birdName": "Northern Parula",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:23:51.279Z"
+    },
     {
       "id": "mwoyab4ng5tvc",
       "birdId": "bird-0166",
