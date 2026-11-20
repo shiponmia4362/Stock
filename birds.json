@@ -1164,9 +1164,9 @@
       "id": "bird-0146",
       "name": "Brambling",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:25:46.910Z"
     },
     {
       "id": "bird-0147",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyd09qlpjri",
+      "birdId": "bird-0146",
+      "birdName": "Brambling",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:25:46.910Z"
+    },
     {
       "id": "mwoycs6fja0n0",
       "birdId": "bird-0150",
