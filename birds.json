@@ -836,9 +836,9 @@
       "id": "bird-0105",
       "name": "Lesser Prairie-Chicken",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:26:42.039Z"
     },
     {
       "id": "bird-0106",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoye6t35fuwm",
+      "birdId": "bird-0105",
+      "birdName": "Lesser Prairie-Chicken",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:26:42.039Z"
+    },
     {
       "id": "mwoydxfrsln2b",
       "birdId": "bird-0130",
