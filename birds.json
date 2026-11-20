@@ -932,9 +932,9 @@
       "id": "bird-0117",
       "name": "Band-tailed Pigeon",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:35:26.550Z"
     },
     {
       "id": "bird-0118",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoypfiufz5em",
+      "birdId": "bird-0117",
+      "birdName": "Band-tailed Pigeon",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:35:26.550Z"
+    },
     {
       "id": "mwoyp8xi9di8g",
       "birdId": "bird-0114",
