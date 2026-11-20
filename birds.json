@@ -6460,9 +6460,9 @@
       "id": "bird-0808",
       "name": "Dusky-headed Parakeet",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:08:16.988Z"
     },
     {
       "id": "bird-0809",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp20tp92o83z",
+      "birdId": "bird-0808",
+      "birdName": "Dusky-headed Parakeet",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:08:16.989Z"
+    },
     {
       "id": "mwp207797cmln",
       "birdId": "bird-0047",
