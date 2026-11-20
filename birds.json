@@ -6572,9 +6572,9 @@
       "id": "bird-0822",
       "name": "Long-billed Murrelet",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:40:22.808Z"
     },
     {
       "id": "bird-0823",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyvs48mw6cr",
+      "birdId": "bird-0822",
+      "birdName": "Long-billed Murrelet",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:40:22.808Z"
+    },
     {
       "id": "mwoyvlvq7bf0u",
       "birdId": "bird-0254",
