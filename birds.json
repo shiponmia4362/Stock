@@ -1900,9 +1900,9 @@
       "id": "bird-0238",
       "name": "Lesser Goldfinch",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:23:31.816Z"
     },
     {
       "id": "bird-0239",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0f9t4mcr84",
+      "birdId": "bird-0238",
+      "birdName": "Lesser Goldfinch",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:23:31.816Z"
+    },
     {
       "id": "mwp0exggkvumf",
       "birdId": "bird-0135",
