@@ -3900,9 +3900,9 @@
       "id": "bird-0488",
       "name": "Boat-tailed Grackle",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:05:53.893Z"
     },
     {
       "id": "bird-0489",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1xradybgst",
+      "birdId": "bird-0488",
+      "birdName": "Boat-tailed Grackle",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:05:53.893Z"
+    },
     {
       "id": "mwp1xl3h464gt",
       "birdId": "bird-0379",
