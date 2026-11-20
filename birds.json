@@ -1652,9 +1652,9 @@
       "id": "bird-0207",
       "name": "Western Tanager",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:34:06.819Z"
     },
     {
       "id": "bird-0208",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2y1k330fex",
+      "birdId": "bird-0207",
+      "birdName": "Western Tanager",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:34:06.819Z"
+    },
     {
       "id": "mwp2xv9f5lle1",
       "birdId": "bird-0215",
