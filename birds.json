@@ -2356,9 +2356,9 @@
       "id": "bird-0295",
       "name": "Short-billed Gull",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:39:20.003Z"
     },
     {
       "id": "bird-0296",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp34r7nqksi9",
+      "birdId": "bird-0295",
+      "birdName": "Short-billed Gull",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:39:20.003Z"
+    },
     {
       "id": "mwp34kerbl1km",
       "birdId": "bird-0304",
