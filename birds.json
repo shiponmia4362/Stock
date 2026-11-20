@@ -404,9 +404,9 @@
       "id": "bird-0051",
       "name": "Swamp Sparrow",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:26:28.212Z"
     },
     {
       "id": "bird-0052",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2o7p0armla",
+      "birdId": "bird-0051",
+      "birdName": "Swamp Sparrow",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:26:28.212Z"
+    },
     {
       "id": "mwp2o0v7u8aqg",
       "birdId": "bird-0042",
