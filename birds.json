@@ -828,9 +828,9 @@
       "id": "bird-0104",
       "name": "Great Skua",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:27:18.158Z"
     },
     {
       "id": "bird-0105",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyeyoeiki12",
+      "birdId": "bird-0104",
+      "birdName": "Great Skua",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:27:18.158Z"
+    },
     {
       "id": "mwoyemgepflo0",
       "birdId": "bird-0132",
