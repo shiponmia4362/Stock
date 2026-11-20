@@ -1244,9 +1244,9 @@
       "id": "bird-0156",
       "name": "Brown-headed Cowbird",
       "country": "Others",
-      "status": "rejected",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T12:44:49.757Z"
+      "updatedAt": "2026-11-20T13:32:54.551Z"
     },
     {
       "id": "bird-0157",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0rc0n0hxww",
+      "birdId": "bird-0156",
+      "birdName": "Brown-headed Cowbird",
+      "action": "accepted",
+      "detail": "Rejected → Accepted",
+      "at": "2026-11-20T13:32:54.551Z"
+    },
     {
       "id": "mwp0r3m7zfhh8",
       "birdId": "bird-0157",
