@@ -196,9 +196,9 @@
       "id": "bird-0025",
       "name": "Pink-footed Shearwater",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:57:08.269Z"
     },
     {
       "id": "bird-0026",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1mhppvgsz7",
+      "birdId": "bird-0025",
+      "birdName": "Pink-footed Shearwater",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:57:08.269Z"
+    },
     {
       "id": "mwp1m8xq3nuj4",
       "birdId": "bird-0027",
