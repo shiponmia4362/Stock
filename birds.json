@@ -1324,9 +1324,9 @@
       "id": "bird-0166",
       "name": "Reddish Egret",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:23:41.015Z"
     },
     {
       "id": "bird-0167",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyab4ng5tvc",
+      "birdId": "bird-0166",
+      "birdName": "Reddish Egret",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:23:41.015Z"
+    },
     {
       "id": "mwoya2ioafnbu",
       "birdId": "bird-0175",
