@@ -1188,9 +1188,9 @@
       "id": "bird-0149",
       "name": "Western Bluebird",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:35:45.815Z"
     },
     {
       "id": "bird-0150",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0v05zbwf80",
+      "birdId": "bird-0149",
+      "birdName": "Western Bluebird",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:35:45.815Z"
+    },
     {
       "id": "mwp0tjdbjzstk",
       "birdId": "bird-0138",
