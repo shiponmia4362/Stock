@@ -284,9 +284,9 @@
       "id": "bird-0036",
       "name": "Blue-footed Booby",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:33:58.454Z"
     },
     {
       "id": "bird-0037",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoynjjqx7qg9",
+      "birdId": "bird-0036",
+      "birdName": "Blue-footed Booby",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:33:58.454Z"
+    },
     {
       "id": "mwoyncwerdu1j",
       "birdId": "bird-0029",
