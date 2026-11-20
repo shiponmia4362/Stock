@@ -1964,9 +1964,9 @@
       "id": "bird-0246",
       "name": "Black-footed Albatross",
       "country": "Others",
-      "status": "accepted",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T13:25:04.115Z"
+      "updatedAt": "2026-11-20T14:23:44.868Z"
     },
     {
       "id": "bird-0247",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2kpnow8dme",
+      "birdId": "bird-0246",
+      "birdName": "Black-footed Albatross",
+      "action": "processing",
+      "detail": "Accepted → Processing",
+      "at": "2026-11-20T14:23:44.868Z"
+    },
     {
       "id": "mwp2khy49sqi9",
       "birdId": "bird-0210",
