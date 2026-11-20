@@ -116,9 +116,9 @@
       "id": "bird-0015",
       "name": "European Starling",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:58:42.910Z"
     },
     {
       "id": "bird-0016",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1oiqmz25n3",
+      "birdId": "bird-0015",
+      "birdName": "European Starling",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:58:42.910Z"
+    },
     {
       "id": "mwp1o8v9osrg3",
       "birdId": "bird-0014",
