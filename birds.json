@@ -3028,9 +3028,9 @@
       "id": "bird-0379",
       "name": "Brewer's Blackbird",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:05:45.869Z"
     },
     {
       "id": "bird-0380",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1xl3h464gt",
+      "birdId": "bird-0379",
+      "birdName": "Brewer's Blackbird",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:05:45.869Z"
+    },
     {
       "id": "mwp1xeo5m4fto",
       "birdId": "bird-0037",
