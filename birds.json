@@ -372,9 +372,9 @@
       "id": "bird-0047",
       "name": "Monk Parakeet",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:07:47.829Z"
     },
     {
       "id": "bird-0048",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp207797cmln",
+      "birdId": "bird-0047",
+      "birdName": "Monk Parakeet",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:07:47.829Z"
+    },
     {
       "id": "mwp1zt91zzr6k",
       "birdId": "bird-0811",
