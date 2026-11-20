@@ -988,9 +988,9 @@
       "id": "bird-0124",
       "name": "Indigo Bunting",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:00:34.509Z"
     },
     {
       "id": "bird-0125",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1qwuljkhqb",
+      "birdId": "bird-0124",
+      "birdName": "Indigo Bunting",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:00:34.509Z"
+    },
     {
       "id": "mwp1qnv97w5j4",
       "birdId": "bird-0123",
