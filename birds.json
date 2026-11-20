@@ -1716,9 +1716,9 @@
       "id": "bird-0215",
       "name": "Western Meadowlark",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:03:45.397Z"
     },
     {
       "id": "bird-0216",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1v051coh9o",
+      "birdId": "bird-0215",
+      "birdName": "Western Meadowlark",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:03:45.397Z"
+    },
     {
       "id": "mwp1upb9ubwwo",
       "birdId": "bird-0584",
