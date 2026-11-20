@@ -3044,9 +3044,9 @@
       "id": "bird-0381",
       "name": "Prairie Falcon",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:15:22.557Z"
     },
     {
       "id": "bird-0382",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp29y2ls7jwh",
+      "birdId": "bird-0381",
+      "birdName": "Prairie Falcon",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:15:22.557Z"
+    },
     {
       "id": "mwp28cvgvqun8",
       "birdId": "bird-0347",
