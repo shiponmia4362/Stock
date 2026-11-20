@@ -1156,9 +1156,9 @@
       "id": "bird-0145",
       "name": "Pine Siskin",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:36:09.639Z"
     },
     {
       "id": "bird-0146",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0vijro0aws",
+      "birdId": "bird-0145",
+      "birdName": "Pine Siskin",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:36:09.639Z"
+    },
     {
       "id": "mwp0v8l33ycva",
       "birdId": "bird-0137",
