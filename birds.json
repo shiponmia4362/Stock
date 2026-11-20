@@ -332,9 +332,9 @@
       "id": "bird-0042",
       "name": "Short-eared Owl",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:26:19.363Z"
     },
     {
       "id": "bird-0043",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2o0v7u8aqg",
+      "birdId": "bird-0042",
+      "birdName": "Short-eared Owl",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:26:19.363Z"
+    },
     {
       "id": "mwp2mt5gy0c4q",
       "birdId": "bird-0217",
