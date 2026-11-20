@@ -1948,9 +1948,9 @@
       "id": "bird-0244",
       "name": "Yellow-breasted Chat",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:38:59.534Z"
     },
     {
       "id": "bird-0245",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoytzv2glc6g",
+      "birdId": "bird-0244",
+      "birdName": "Yellow-breasted Chat",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:38:59.534Z"
+    },
     {
       "id": "mwoys21i2uzbx",
       "birdId": "bird-0263",
