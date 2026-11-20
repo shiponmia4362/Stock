@@ -1548,9 +1548,9 @@
       "id": "bird-0194",
       "name": "Rhinoceros Auklet",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:39:56.894Z"
     },
     {
       "id": "bird-0195",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyv84e181ua",
+      "birdId": "bird-0194",
+      "birdName": "Rhinoceros Auklet",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:39:56.894Z"
+    },
     {
       "id": "mwoyv0z2cseh7",
       "birdId": "bird-0220",
