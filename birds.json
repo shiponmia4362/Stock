@@ -1444,9 +1444,9 @@
       "id": "bird-0181",
       "name": "House Sparrow",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:13:42.580Z"
     },
     {
       "id": "bird-0182",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp27sxgji168",
+      "birdId": "bird-0181",
+      "birdName": "House Sparrow",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:13:42.580Z"
+    },
     {
       "id": "mwp27gy59a7yi",
       "birdId": "bird-0118",
