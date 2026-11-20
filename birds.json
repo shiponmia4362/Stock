@@ -412,9 +412,9 @@
       "id": "bird-0052",
       "name": "Prothonotary Warbler",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:55:35.350Z"
     },
     {
       "id": "bird-0053",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1ki0m5acih",
+      "birdId": "bird-0052",
+      "birdName": "Prothonotary Warbler",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:55:35.350Z"
+    },
     {
       "id": "mwp1kbvxrmp37",
       "birdId": "bird-0058",
