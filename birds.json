@@ -2556,9 +2556,9 @@
       "id": "bird-0320",
       "name": "Pyrrhuloxia",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T15:44:41.742Z"
     },
     {
       "id": "bird-0321",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5gt8ujd180",
+      "birdId": "bird-0320",
+      "birdName": "Pyrrhuloxia",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T15:44:41.742Z"
+    },
     {
       "id": "mwp5gmjbvveea",
       "birdId": "bird-0330",
