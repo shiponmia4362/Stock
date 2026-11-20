@@ -244,9 +244,9 @@
       "id": "bird-0031",
       "name": "Eared Quetzal",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:57:42.998Z"
     },
     {
       "id": "bird-0032",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1n8ieolpt6",
+      "birdId": "bird-0031",
+      "birdName": "Eared Quetzal",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:57:42.998Z"
+    },
     {
       "id": "mwp1mstisrh6n",
       "birdId": "bird-0033",
