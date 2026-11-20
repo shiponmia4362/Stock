@@ -500,9 +500,9 @@
       "id": "bird-0063",
       "name": "Red Knot",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:53:59.382Z"
     },
     {
       "id": "bird-0064",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1ifyup6ayu",
+      "birdId": "bird-0063",
+      "birdName": "Red Knot",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:53:59.382Z"
+    },
     {
       "id": "mwp1ia9iuwi5q",
       "birdId": "bird-0060",
