@@ -580,9 +580,9 @@
       "id": "bird-0073",
       "name": "Piping Plover",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:19:51.776Z"
     },
     {
       "id": "bird-0074",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0ak0wjyjm1",
+      "birdId": "bird-0073",
+      "birdName": "Piping Plover",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:19:51.776Z"
+    },
     {
       "id": "mwp0a8qpva5f4",
       "birdId": "bird-0278",
