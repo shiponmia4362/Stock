@@ -2124,9 +2124,9 @@
       "id": "bird-0266",
       "name": "American Herring Gull",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:37:20.086Z"
     },
     {
       "id": "bird-0267",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyrv4mawkvy",
+      "birdId": "bird-0266",
+      "birdName": "American Herring Gull",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:37:20.086Z"
+    },
     {
       "id": "mwoyrnli6exow",
       "birdId": "bird-0121",
