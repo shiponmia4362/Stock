@@ -172,9 +172,9 @@
       "id": "bird-0022",
       "name": "Common Raven",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:34:09.646Z"
     },
     {
       "id": "bird-0023",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyns6mrr742",
+      "birdId": "bird-0022",
+      "birdName": "Common Raven",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:34:09.646Z"
+    },
     {
       "id": "mwoynjjqx7qg9",
       "birdId": "bird-0036",
