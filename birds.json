@@ -452,9 +452,9 @@
       "id": "bird-0057",
       "name": "Arctic Loon",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:20:45.336Z"
     },
     {
       "id": "bird-0058",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0bpco8o9ww",
+      "birdId": "bird-0057",
+      "birdName": "Arctic Loon",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:20:45.336Z"
+    },
     {
       "id": "mwp0axowi7lc9",
       "birdId": "bird-0071",
