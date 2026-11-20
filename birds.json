@@ -5676,9 +5676,9 @@
       "id": "bird-0710",
       "name": "Craveri's Murrelet",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:42:06.822Z"
     },
     {
       "id": "bird-0711",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyy0diioi7o",
+      "birdId": "bird-0710",
+      "birdName": "Craveri's Murrelet",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:42:06.822Z"
+    },
     {
       "id": "mwoyxnymo3891",
       "birdId": "bird-0302",
