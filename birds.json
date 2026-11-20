@@ -436,9 +436,9 @@
       "id": "bird-0055",
       "name": "Sharp-shinned Hawk",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:47:33.509Z"
     },
     {
       "id": "bird-0056",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoz50g52io8j",
+      "birdId": "bird-0055",
+      "birdName": "Sharp-shinned Hawk",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:47:33.509Z"
+    },
     {
       "id": "mwoz4u7ii05nx",
       "birdId": "bird-0218",
