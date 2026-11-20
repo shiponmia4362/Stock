@@ -2668,9 +2668,9 @@
       "id": "bird-0334",
       "name": "Ring-billed Gull",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:40:26.298Z"
     },
     {
       "id": "bird-0335",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp366d7fyjuk",
+      "birdId": "bird-0334",
+      "birdName": "Ring-billed Gull",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:40:26.299Z"
+    },
     {
       "id": "mwp360z8tx9qm",
       "birdId": "bird-0335",
