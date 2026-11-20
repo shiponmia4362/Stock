@@ -5492,9 +5492,9 @@
       "id": "bird-0687",
       "name": "Green Parakeet",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:46:40.437Z"
     },
     {
       "id": "bird-0688",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoz3vhxskws3",
+      "birdId": "bird-0687",
+      "birdName": "Green Parakeet",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:46:40.437Z"
+    },
     {
       "id": "mwoz3opxuab6g",
       "birdId": "bird-0763",
