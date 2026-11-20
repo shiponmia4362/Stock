@@ -1076,9 +1076,9 @@
       "id": "bird-0135",
       "name": "Baltimore Oriole",
       "country": "Others",
-      "status": "rejected",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T12:45:12.893Z"
+      "updatedAt": "2026-11-20T13:23:15.808Z"
     },
     {
       "id": "bird-0136",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0exggkvumf",
+      "birdId": "bird-0135",
+      "birdName": "Baltimore Oriole",
+      "action": "accepted",
+      "detail": "Rejected → Accepted",
+      "at": "2026-11-20T13:23:15.808Z"
+    },
     {
       "id": "mwp0emnjg7yuw",
       "birdId": "bird-0116",
