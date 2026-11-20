@@ -92,9 +92,9 @@
       "id": "bird-0012",
       "name": "Band-rumped Storm-Petrel",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:59:34.141Z"
     },
     {
       "id": "bird-0013",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1pm9puip83",
+      "birdId": "bird-0012",
+      "birdName": "Band-rumped Storm-Petrel",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:59:34.141Z"
+    },
     {
       "id": "mwp1pf8l16uhr",
       "birdId": "bird-0020",
