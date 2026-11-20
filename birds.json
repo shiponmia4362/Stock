@@ -764,9 +764,9 @@
       "id": "bird-0096",
       "name": "Baird's Sparrow",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:42:00.166Z"
     },
     {
       "id": "bird-0097",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1310mlm3du",
+      "birdId": "bird-0096",
+      "birdName": "Baird's Sparrow",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:42:00.166Z"
+    },
     {
       "id": "mwp12ur3ruioh",
       "birdId": "bird-0099",
