@@ -1092,9 +1092,9 @@
       "id": "bird-0137",
       "name": "Red-shouldered Hawk",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:48:56.414Z"
     },
     {
       "id": "bird-0138",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoz6sf2ytuy5",
+      "birdId": "bird-0137",
+      "birdName": "Red-shouldered Hawk",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:48:56.414Z"
+    },
     {
       "id": "mwoz6kvxsldwa",
       "birdId": "bird-0116",
