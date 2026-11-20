@@ -1396,9 +1396,9 @@
       "id": "bird-0175",
       "name": "Mourning Dove",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:23:29.856Z"
     },
     {
       "id": "bird-0176",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoya2ioafnbu",
+      "birdId": "bird-0175",
+      "birdName": "Mourning Dove",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:23:29.856Z"
+    },
     {
       "id": "mwoy9qsvn28hq",
       "birdId": "bird-0174",
