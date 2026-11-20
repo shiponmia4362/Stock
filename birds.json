@@ -1980,9 +1980,9 @@
       "id": "bird-0248",
       "name": "Northern Hawk Owl",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:33:23.963Z"
     },
     {
       "id": "bird-0249",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2x4hnnzsy3",
+      "birdId": "bird-0248",
+      "birdName": "Northern Hawk Owl",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:33:23.963Z"
+    },
     {
       "id": "mwp2uruj0ntur",
       "birdId": "bird-0221",
