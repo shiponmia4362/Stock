@@ -2324,9 +2324,9 @@
       "id": "bird-0291",
       "name": "Sooty Grouse",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:39:43.250Z"
     },
     {
       "id": "bird-0292",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp3595epq4w6",
+      "birdId": "bird-0291",
+      "birdName": "Sooty Grouse",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:39:43.250Z"
+    },
     {
       "id": "mwp353cc8l4w7",
       "birdId": "bird-0308",
