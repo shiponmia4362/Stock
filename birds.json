@@ -1644,9 +1644,9 @@
       "id": "bird-0206",
       "name": "MacGillivray's Warbler",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:23:12.308Z"
     },
     {
       "id": "bird-0207",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2k0j8zzaqu",
+      "birdId": "bird-0206",
+      "birdName": "MacGillivray's Warbler",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:23:12.308Z"
+    },
     {
       "id": "mwp2f9b06qmw4",
       "birdId": "bird-0329",
