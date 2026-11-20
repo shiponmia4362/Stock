@@ -1884,9 +1884,9 @@
       "id": "bird-0236",
       "name": "Little Blue Heron",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:28:24.719Z"
     },
     {
       "id": "bird-0237",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0ljtb2bats",
+      "birdId": "bird-0236",
+      "birdName": "Little Blue Heron",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:28:24.719Z"
+    },
     {
       "id": "mwp0labz0l5lo",
       "birdId": "bird-0230",
