@@ -564,9 +564,9 @@
       "id": "bird-0071",
       "name": "Great Horned Owl",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:20:09.488Z"
     },
     {
       "id": "bird-0072",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0axowi7lc9",
+      "birdId": "bird-0071",
+      "birdName": "Great Horned Owl",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:20:09.488Z"
+    },
     {
       "id": "mwp0ak0wjyjm1",
       "birdId": "bird-0073",
