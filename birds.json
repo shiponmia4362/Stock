@@ -1764,9 +1764,9 @@
       "id": "bird-0221",
       "name": "Ashy Storm-Petrel",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:31:34.267Z"
     },
     {
       "id": "bird-0222",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2uruj0ntur",
+      "birdId": "bird-0221",
+      "birdName": "Ashy Storm-Petrel",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:31:34.267Z"
+    },
     {
       "id": "mwp2ufczhaghn",
       "birdId": "bird-0191",
