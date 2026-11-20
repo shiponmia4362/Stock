@@ -2620,9 +2620,9 @@
       "id": "bird-0328",
       "name": "Red-faced Cormorant",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T15:45:28.022Z"
     },
     {
       "id": "bird-0329",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5hsyem91y1",
+      "birdId": "bird-0328",
+      "birdName": "Red-faced Cormorant",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T15:45:28.022Z"
+    },
     {
       "id": "mwp5hmpzehn17",
       "birdId": "bird-0218",
