@@ -700,9 +700,9 @@
       "id": "bird-0088",
       "name": "Ruby-throated Hummingbird",
       "country": "Others",
-      "status": "rejected",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T12:49:50.981Z"
+      "updatedAt": "2026-11-20T13:42:22.311Z"
     },
     {
       "id": "bird-0089",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp13i3r3cb3g",
+      "birdId": "bird-0088",
+      "birdName": "Ruby-throated Hummingbird",
+      "action": "accepted",
+      "detail": "Rejected → Accepted",
+      "at": "2026-11-20T13:42:22.311Z"
+    },
     {
       "id": "mwp13aa6czrk3",
       "birdId": "bird-0097",
