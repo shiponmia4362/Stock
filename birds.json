@@ -348,9 +348,9 @@
       "id": "bird-0044",
       "name": "Arctic Tern",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:25:35.280Z"
     },
     {
       "id": "bird-0045",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0hx2og95fy",
+      "birdId": "bird-0044",
+      "birdName": "Arctic Tern",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:25:35.280Z"
+    },
     {
       "id": "mwp0h90zd1kpm",
       "birdId": "bird-0246",
