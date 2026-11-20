@@ -1204,9 +1204,9 @@
       "id": "bird-0151",
       "name": "Snow Goose",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:34:13.544Z"
     },
     {
       "id": "bird-0152",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0t0ywpnxd6",
+      "birdId": "bird-0151",
+      "birdName": "Snow Goose",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:34:13.544Z"
+    },
     {
       "id": "mwp0svpckgi26",
       "birdId": "bird-0140",
