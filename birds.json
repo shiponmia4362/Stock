@@ -972,9 +972,9 @@
       "id": "bird-0122",
       "name": "Black-necked Stilt",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:01:26.957Z"
     },
     {
       "id": "bird-0123",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1s1bhfwm7w",
+      "birdId": "bird-0122",
+      "birdName": "Black-necked Stilt",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:01:26.957Z"
+    },
     {
       "id": "mwp1qwuljkhqb",
       "birdId": "bird-0124",
