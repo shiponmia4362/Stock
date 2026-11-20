@@ -1988,9 +1988,9 @@
       "id": "bird-0249",
       "name": "Evening Grosbeak",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:24:27.736Z"
     },
     {
       "id": "bird-0250",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0ggygglu2g",
+      "birdId": "bird-0249",
+      "birdName": "Evening Grosbeak",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:24:27.736Z"
+    },
     {
       "id": "mwp0g7t44xu25",
       "birdId": "bird-0257",
