@@ -2412,9 +2412,9 @@
       "id": "bird-0302",
       "name": "Dovekie",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:41:50.734Z"
     },
     {
       "id": "bird-0303",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyxnymo3891",
+      "birdId": "bird-0302",
+      "birdName": "Dovekie",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:41:50.734Z"
+    },
     {
       "id": "mwoywfhielcr6",
       "birdId": "bird-0444",
