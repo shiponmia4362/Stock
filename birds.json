@@ -5940,9 +5940,9 @@
       "id": "bird-0743",
       "name": "Streak-backed Oriole",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:04:08.509Z"
     },
     {
       "id": "bird-0744",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1vhz10dmvw",
+      "birdId": "bird-0743",
+      "birdName": "Streak-backed Oriole",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:04:08.509Z"
+    },
     {
       "id": "mwp1v8xyn9fkn",
       "birdId": "bird-0742",
