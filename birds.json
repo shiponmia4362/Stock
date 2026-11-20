@@ -628,9 +628,9 @@
       "id": "bird-0079",
       "name": "Mallard",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:43:18.294Z"
     },
     {
       "id": "bird-0080",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp14pauvuq56",
+      "birdId": "bird-0079",
+      "birdName": "Mallard",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:43:18.294Z"
+    },
     {
       "id": "mwp14he6yf3by",
       "birdId": "bird-0082",
