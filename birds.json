@@ -2388,9 +2388,9 @@
       "id": "bird-0299",
       "name": "Scarlet Tanager",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:22:39.288Z"
     },
     {
       "id": "bird-0300",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0e5a0zisca",
+      "birdId": "bird-0299",
+      "birdName": "Scarlet Tanager",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:22:39.288Z"
+    },
     {
       "id": "mwp0dnl4zxuiw",
       "birdId": "bird-0186",
