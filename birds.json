@@ -1620,9 +1620,9 @@
       "id": "bird-0203",
       "name": "Acorn Woodpecker",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:28:14.731Z"
     },
     {
       "id": "bird-0204",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2qhvvkeaxn",
+      "birdId": "bird-0203",
+      "birdName": "Acorn Woodpecker",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:28:14.731Z"
+    },
     {
       "id": "mwp2pyysskh88",
       "birdId": "bird-0204",
