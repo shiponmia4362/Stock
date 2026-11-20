@@ -2340,9 +2340,9 @@
       "id": "bird-0293",
       "name": "Savannah Sparrow",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:38:55.387Z"
     },
     {
       "id": "bird-0294",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp3487vncdpm",
+      "birdId": "bird-0293",
+      "birdName": "Savannah Sparrow",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:38:55.387Z"
+    },
     {
       "id": "mwp342o32zahi",
       "birdId": "bird-0285",
