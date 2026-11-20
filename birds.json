@@ -2052,9 +2052,9 @@
       "id": "bird-0257",
       "name": "Greater Roadrunner",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:47:41.757Z"
     },
     {
       "id": "bird-0258",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoz56t91391p",
+      "birdId": "bird-0257",
+      "birdName": "Greater Roadrunner",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:47:41.757Z"
+    },
     {
       "id": "mwoz50g52io8j",
       "birdId": "bird-0055",
