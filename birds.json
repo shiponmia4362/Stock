@@ -1044,9 +1044,9 @@
       "id": "bird-0131",
       "name": "Thick-billed Kingbird",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:38:40.263Z"
     },
     {
       "id": "bird-0132",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0yqrryzgl6",
+      "birdId": "bird-0131",
+      "birdName": "Thick-billed Kingbird",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:38:40.263Z"
+    },
     {
       "id": "mwp0ybrzl8etk",
       "birdId": "bird-0128",
