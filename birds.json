@@ -39,15 +39,16 @@
       "status": "accepted",
       "createdAt": "2026-11-20T11:22:12.379Z",
       "updatedAt": "2026-11-20T11:22:56.931Z"
-    },
-    {
-      "id": "mwowbaajae3u1",
-      "name": "Rock Pigeon",
-      "country": "Others",
-      "status": "processing",
-      "createdAt": "2026-11-20T11:28:27.355Z",
-      "updatedAt": "2026-11-20T11:43:43.961Z"
     }
   ],
-  "logs": []
+  "logs": [
+    {
+      "id": "mwowyfrmv55ak",
+      "birdId": "mwowbaajae3u1",
+      "birdName": "Rock Pigeon",
+      "action": "delete",
+      "detail": "Deleted permanently",
+      "at": "2026-11-20T11:46:27.538Z"
+    }
+  ]
 }
