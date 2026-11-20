@@ -1404,9 +1404,9 @@
       "id": "bird-0176",
       "name": "Black-throated Green Warbler",
       "country": "Others",
-      "status": "accepted",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T13:30:08.023Z"
+      "updatedAt": "2026-11-20T14:29:15.204Z"
     },
     {
       "id": "bird-0177",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2rsjokp2pp",
+      "birdId": "bird-0176",
+      "birdName": "Black-throated Green Warbler",
+      "action": "processing",
+      "detail": "Accepted → Processing",
+      "at": "2026-11-20T14:29:15.204Z"
+    },
     {
       "id": "mwp2rjw40opuu",
       "birdId": "bird-0226",
