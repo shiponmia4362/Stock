@@ -1372,9 +1372,9 @@
       "id": "bird-0172",
       "name": "Tufted Puffin",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:28:53.663Z"
     },
     {
       "id": "bird-0173",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0m65bi269j",
+      "birdId": "bird-0172",
+      "birdName": "Tufted Puffin",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:28:53.663Z"
+    },
     {
       "id": "mwp0lz6wcw02u",
       "birdId": "bird-0173",
