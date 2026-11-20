@@ -1932,9 +1932,9 @@
       "id": "bird-0242",
       "name": "Red Phalarope",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:37:52.415Z"
     },
     {
       "id": "bird-0243",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0xpunh29ki",
+      "birdId": "bird-0242",
+      "birdName": "Red Phalarope",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:37:52.415Z"
+    },
     {
       "id": "mwp0xk6fdudiy",
       "birdId": "bird-0243",
