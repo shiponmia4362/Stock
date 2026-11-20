@@ -844,9 +844,9 @@
       "id": "bird-0106",
       "name": "Snowy Owl",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:38:56.719Z"
     },
     {
       "id": "bird-0107",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0z3gvf03et",
+      "birdId": "bird-0106",
+      "birdName": "Snowy Owl",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:38:56.719Z"
+    },
     {
       "id": "mwp0yqrryzgl6",
       "birdId": "bird-0131",
