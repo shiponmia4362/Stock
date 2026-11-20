@@ -1292,9 +1292,9 @@
       "id": "bird-0162",
       "name": "Bar-tailed Godwit",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:32:12.327Z"
     },
     {
       "id": "bird-0163",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0qffrtkr6m",
+      "birdId": "bird-0162",
+      "birdName": "Bar-tailed Godwit",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:32:12.327Z"
+    },
     {
       "id": "mwp0q7mv6r2va",
       "birdId": "bird-0165",
