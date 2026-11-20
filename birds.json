@@ -188,9 +188,9 @@
       "id": "bird-0024",
       "name": "Flesh-footed Shearwater",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:57:50.101Z"
     },
     {
       "id": "bird-0025",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1ndzpbxvqb",
+      "birdId": "bird-0024",
+      "birdName": "Flesh-footed Shearwater",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:57:50.101Z"
+    },
     {
       "id": "mwp1n8ieolpt6",
       "birdId": "bird-0031",
