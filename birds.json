@@ -2196,9 +2196,9 @@
       "id": "bird-0275",
       "name": "Yellow-green Vireo",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:36:52.391Z"
     },
     {
       "id": "bird-0276",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0wfjb5y6ey",
+      "birdId": "bird-0275",
+      "birdName": "Yellow-green Vireo",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:36:52.391Z"
+    },
     {
       "id": "mwp0w4gfbmk58",
       "birdId": "bird-0147",
