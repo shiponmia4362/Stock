@@ -2428,9 +2428,9 @@
       "id": "bird-0304",
       "name": "Sedge Wren",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:39:11.187Z"
     },
     {
       "id": "bird-0305",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp34kerbl1km",
+      "birdId": "bird-0304",
+      "birdName": "Sedge Wren",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:39:11.187Z"
+    },
     {
       "id": "mwp34ehnwn0as",
       "birdId": "bird-0299",
