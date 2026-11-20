@@ -1788,9 +1788,9 @@
       "id": "bird-0224",
       "name": "Red-footed Booby",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:27:27.623Z"
     },
     {
       "id": "bird-0225",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0kbrb273nk",
+      "birdId": "bird-0224",
+      "birdName": "Red-footed Booby",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:27:27.623Z"
+    },
     {
       "id": "mwp0k31bp93v0",
       "birdId": "bird-0194",
