@@ -1508,9 +1508,9 @@
       "id": "bird-0189",
       "name": "Great Egret",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:09:30.981Z"
     },
     {
       "id": "bird-0190",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp22esl4ft14",
+      "birdId": "bird-0189",
+      "birdName": "Great Egret",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:09:30.981Z"
+    },
     {
       "id": "mwp220g5mb0xc",
       "birdId": "bird-0362",
