@@ -2420,9 +2420,9 @@
       "id": "bird-0303",
       "name": "American Black Duck",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:35:23.987Z"
     },
     {
       "id": "bird-0304",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2zp3nrovgn",
+      "birdId": "bird-0303",
+      "birdName": "American Black Duck",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:35:23.987Z"
+    },
     {
       "id": "mwp2ye3nbamhw",
       "birdId": "bird-0201",
