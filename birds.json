@@ -3284,9 +3284,9 @@
       "id": "bird-0411",
       "name": "Great-tailed Grackle",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:44:06.269Z"
     },
     {
       "id": "bird-0412",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoz0kjh6dik9",
+      "birdId": "bird-0411",
+      "birdName": "Great-tailed Grackle",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:44:06.269Z"
+    },
     {
       "id": "mwoz070lnpqhp",
       "birdId": "bird-0746",
