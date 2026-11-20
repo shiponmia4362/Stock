@@ -1572,9 +1572,9 @@
       "id": "bird-0197",
       "name": "Western Cattle-Egret",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:26:14.048Z"
     },
     {
       "id": "bird-0198",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0iqzkn5zz2",
+      "birdId": "bird-0197",
+      "birdName": "Western Cattle-Egret",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:26:14.048Z"
+    },
     {
       "id": "mwp0igbjfktx0",
       "birdId": "bird-0225",
