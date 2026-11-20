@@ -31,17 +31,17 @@
       "status": "processing",
       "createdAt": "2026-11-20T11:21:40.579Z",
       "updatedAt": "2026-11-20T11:43:46.394Z"
-    },
-    {
-      "id": "mwow38yjjm93r",
-      "name": "Dunlin",
-      "country": "Others",
-      "status": "accepted",
-      "createdAt": "2026-11-20T11:22:12.379Z",
-      "updatedAt": "2026-11-20T11:22:56.931Z"
     }
   ],
   "logs": [
+    {
+      "id": "mwowylnv0iu8i",
+      "birdId": "mwow38yjjm93r",
+      "birdName": "Dunlin",
+      "action": "delete",
+      "detail": "Deleted permanently",
+      "at": "2026-11-20T11:46:35.179Z"
+    },
     {
       "id": "mwowyfrmv55ak",
       "birdId": "mwowbaajae3u1",
