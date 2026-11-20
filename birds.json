@@ -1516,9 +1516,9 @@
       "id": "bird-0190",
       "name": "Black-capped Chickadee",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:30:58.107Z"
     },
     {
       "id": "bird-0191",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2tzy3e9kpw",
+      "birdId": "bird-0190",
+      "birdName": "Black-capped Chickadee",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:30:58.107Z"
+    },
     {
       "id": "mwp2tpwzmt5nx",
       "birdId": "bird-0276",
