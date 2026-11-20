@@ -476,9 +476,9 @@
       "id": "bird-0060",
       "name": "Red-throated Loon",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:53:51.990Z"
     },
     {
       "id": "bird-0061",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1ia9iuwi5q",
+      "birdId": "bird-0060",
+      "birdName": "Red-throated Loon",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:53:51.990Z"
+    },
     {
       "id": "mwp1hygu8bu53",
       "birdId": "bird-0065",
