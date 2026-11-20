@@ -4060,9 +4060,9 @@
       "id": "bird-0508",
       "name": "Bewick's Wren",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:01:37.381Z"
     },
     {
       "id": "bird-0509",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1s9d13fqyt",
+      "birdId": "bird-0508",
+      "birdName": "Bewick's Wren",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:01:37.381Z"
+    },
     {
       "id": "mwp1s1bhfwm7w",
       "birdId": "bird-0122",
