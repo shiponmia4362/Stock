@@ -6575,17 +6575,17 @@
       "status": "working",
       "createdAt": "2026-11-20T11:59:53.274Z",
       "updatedAt": "2026-11-20T11:59:53.274Z"
-    },
-    {
-      "id": "mwp7ilnnrgipu",
-      "name": "Great Shearwater",
-      "country": "Others",
-      "status": "rejected",
-      "createdAt": "2026-11-20T16:42:04.451Z",
-      "updatedAt": "2026-11-20T16:42:08.275Z"
     }
   ],
   "logs": [
+    {
+      "id": "mwp7jokf6xhrv",
+      "birdId": "mwp7ilnnrgipu",
+      "birdName": "Great Shearwater",
+      "action": "delete",
+      "detail": "Deleted permanently",
+      "at": "2026-11-20T16:42:54.879Z"
+    },
     {
       "id": "mwp7iolvgh9bt",
       "birdId": "mwp7ilnnrgipu",
