@@ -1500,9 +1500,9 @@
       "id": "bird-0188",
       "name": "Golden-cheeked Warbler",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:29:55.091Z"
     },
     {
       "id": "bird-0189",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2snbnmzasl",
+      "birdId": "bird-0188",
+      "birdName": "Golden-cheeked Warbler",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:29:55.091Z"
+    },
     {
       "id": "mwp2s86rhrzrq",
       "birdId": "bird-0189",
