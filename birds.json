@@ -2404,9 +2404,9 @@
       "id": "bird-0301",
       "name": "Parakeet Auklet",
       "country": "Others",
-      "status": "rejected",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T12:40:06.078Z"
+      "updatedAt": "2026-11-20T14:38:34.331Z"
     },
     {
       "id": "bird-0302",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp33ryzwfpjh",
+      "birdId": "bird-0301",
+      "birdName": "Parakeet Auklet",
+      "action": "processing",
+      "detail": "Rejected → Processing",
+      "at": "2026-11-20T14:38:34.331Z"
+    },
     {
       "id": "mwp33mgr4njck",
       "birdId": "bird-0279",
