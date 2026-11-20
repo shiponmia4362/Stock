@@ -1180,9 +1180,9 @@
       "id": "bird-0148",
       "name": "Mountain Bluebird",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:36:25.255Z"
     },
     {
       "id": "bird-0149",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0vuljyijun",
+      "birdId": "bird-0148",
+      "birdName": "Mountain Bluebird",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:36:25.255Z"
+    },
     {
       "id": "mwp0vovjjrzpq",
       "birdId": "bird-0136",
