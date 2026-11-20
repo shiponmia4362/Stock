@@ -1828,9 +1828,9 @@
       "id": "bird-0229",
       "name": "Red-crowned Amazon",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:27:42.535Z"
     },
     {
       "id": "bird-0230",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0kn9jknvtv",
+      "birdId": "bird-0229",
+      "birdName": "Red-crowned Amazon",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:27:42.535Z"
+    },
     {
       "id": "mwp0kbrb273nk",
       "birdId": "bird-0224",
