@@ -740,9 +740,9 @@
       "id": "bird-0093",
       "name": "Eastern Meadowlark",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:41:10.086Z"
     },
     {
       "id": "bird-0094",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp11ydio5coz",
+      "birdId": "bird-0093",
+      "birdName": "Eastern Meadowlark",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:41:10.086Z"
+    },
     {
       "id": "mwp11luntw29o",
       "birdId": "bird-0102",
