@@ -2228,9 +2228,9 @@
       "id": "bird-0279",
       "name": "Painted Bunting",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:38:27.195Z"
     },
     {
       "id": "bird-0280",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp33mgr4njck",
+      "birdId": "bird-0279",
+      "birdName": "Painted Bunting",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:38:27.195Z"
+    },
     {
       "id": "mwp33g6j5gq28",
       "birdId": "bird-0290",
