@@ -292,9 +292,9 @@
       "id": "bird-0037",
       "name": "Bronzed Cowbird",
       "country": "Others",
-      "status": "rejected",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T12:33:30.222Z"
+      "updatedAt": "2026-11-20T14:05:37.541Z"
     },
     {
       "id": "bird-0038",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1xeo5m4fto",
+      "birdId": "bird-0037",
+      "birdName": "Bronzed Cowbird",
+      "action": "accepted",
+      "detail": "Rejected → Accepted",
+      "at": "2026-11-20T14:05:37.541Z"
+    },
     {
       "id": "mwp1x6nh41u8w",
       "birdId": "bird-0133",
