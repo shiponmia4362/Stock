@@ -772,9 +772,9 @@
       "id": "bird-0097",
       "name": "American Kestrel",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:42:12.174Z"
     },
     {
       "id": "bird-0098",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp13aa6czrk3",
+      "birdId": "bird-0097",
+      "birdName": "American Kestrel",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:42:12.174Z"
+    },
     {
       "id": "mwp1310mlm3du",
       "birdId": "bird-0096",
