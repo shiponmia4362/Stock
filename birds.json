@@ -324,9 +324,9 @@
       "id": "bird-0041",
       "name": "Osprey",
       "country": "Others",
-      "status": "rejected",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T12:33:08.582Z"
+      "updatedAt": "2026-11-20T14:15:46.413Z"
     },
     {
       "id": "bird-0042",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2agh9bjmk1",
+      "birdId": "bird-0041",
+      "birdName": "Osprey",
+      "action": "accepted",
+      "detail": "Rejected → Accepted",
+      "at": "2026-11-20T14:15:46.413Z"
+    },
     {
       "id": "mwp29y2ls7jwh",
       "birdId": "bird-0381",
