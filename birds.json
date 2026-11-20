@@ -1364,9 +1364,9 @@
       "id": "bird-0171",
       "name": "Common Cuckoo",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:21:51.575Z"
     },
     {
       "id": "bird-0172",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoy7yondbtwx",
+      "birdId": "bird-0171",
+      "birdName": "Common Cuckoo",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:21:51.575Z"
+    },
     {
       "id": "mwoy7oxz1q7u1",
       "birdId": "bird-0228",
