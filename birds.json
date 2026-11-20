@@ -2772,9 +2772,9 @@
       "id": "bird-0347",
       "name": "Red-headed Woodpecker",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:14:08.428Z"
     },
     {
       "id": "bird-0348",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp28cvgvqun8",
+      "birdId": "bird-0347",
+      "birdName": "Red-headed Woodpecker",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:14:08.428Z"
+    },
     {
       "id": "mwp282os5fwdz",
       "birdId": "bird-0388",
