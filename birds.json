@@ -1332,9 +1332,9 @@
       "id": "bird-0167",
       "name": "American White Pelican",
       "country": "Others",
-      "status": "rejected",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T12:49:04.973Z"
+      "updatedAt": "2026-11-20T13:32:29.799Z"
     },
     {
       "id": "bird-0168",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0qsx3lcmc6",
+      "birdId": "bird-0167",
+      "birdName": "American White Pelican",
+      "action": "accepted",
+      "detail": "Rejected → Accepted",
+      "at": "2026-11-20T13:32:29.799Z"
+    },
     {
       "id": "mwp0qffrtkr6m",
       "birdId": "bird-0162",
