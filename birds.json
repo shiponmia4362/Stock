@@ -444,9 +444,9 @@
       "id": "bird-0056",
       "name": "Yellow-billed Loon",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:55:04.166Z"
     },
     {
       "id": "bird-0057",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1jtyehpxls",
+      "birdId": "bird-0056",
+      "birdName": "Yellow-billed Loon",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:55:04.166Z"
+    },
     {
       "id": "mwp1jjimz6479",
       "birdId": "bird-0061",
