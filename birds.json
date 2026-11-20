@@ -5932,9 +5932,9 @@
       "id": "bird-0742",
       "name": "Spot-breasted Oriole",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:03:56.806Z"
     },
     {
       "id": "bird-0743",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1v8xyn9fkn",
+      "birdId": "bird-0742",
+      "birdName": "Spot-breasted Oriole",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:03:56.806Z"
+    },
     {
       "id": "mwp1v051coh9o",
       "birdId": "bird-0215",
