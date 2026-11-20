@@ -6412,9 +6412,9 @@
       "id": "bird-0802",
       "name": "Yellow-chevroned Parakeet",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:45:54.637Z"
     },
     {
       "id": "bird-0803",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoz2w5p0e4o7",
+      "birdId": "bird-0802",
+      "birdName": "Yellow-chevroned Parakeet",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:45:54.637Z"
+    },
     {
       "id": "mwoz1zy5kijno",
       "birdId": "bird-0135",
