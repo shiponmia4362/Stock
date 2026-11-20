@@ -1692,9 +1692,9 @@
       "id": "bird-0212",
       "name": "Red-eyed Vireo",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:38:40.803Z"
     },
     {
       "id": "bird-0213",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp33wyrxwos7",
+      "birdId": "bird-0212",
+      "birdName": "Red-eyed Vireo",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:38:40.803Z"
+    },
     {
       "id": "mwp33ryzwfpjh",
       "birdId": "bird-0301",
