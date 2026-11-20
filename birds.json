@@ -1388,9 +1388,9 @@
       "id": "bird-0174",
       "name": "Steller's Jay",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:23:14.671Z"
     },
     {
       "id": "bird-0175",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoy9qsvn28hq",
+      "birdId": "bird-0174",
+      "birdName": "Steller's Jay",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:23:14.671Z"
+    },
     {
       "id": "mwoy85afsc56g",
       "birdId": "bird-0179",
