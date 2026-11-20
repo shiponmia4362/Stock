@@ -2604,9 +2604,9 @@
       "id": "bird-0326",
       "name": "Red-legged Kittiwake",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T15:45:35.046Z"
     },
     {
       "id": "bird-0327",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5hydiw57sx",
+      "birdId": "bird-0326",
+      "birdName": "Red-legged Kittiwake",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T15:45:35.046Z"
+    },
     {
       "id": "mwp5hsyem91y1",
       "birdId": "bird-0328",
