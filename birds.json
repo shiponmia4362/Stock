@@ -2612,9 +2612,9 @@
       "id": "bird-0327",
       "name": "Least Auklet",
       "country": "Others",
-      "status": "rejected",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T12:40:31.030Z"
+      "updatedAt": "2026-11-20T15:44:08.927Z"
     },
     {
       "id": "bird-0328",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5g3xbmhg5d",
+      "birdId": "bird-0327",
+      "birdName": "Least Auklet",
+      "action": "processing",
+      "detail": "Rejected → Processing",
+      "at": "2026-11-20T15:44:08.927Z"
+    },
     {
       "id": "mwp5fvof6v06e",
       "birdId": "bird-0324",
