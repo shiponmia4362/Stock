@@ -5796,9 +5796,9 @@
       "id": "bird-0725",
       "name": "Murphy's Petrel",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:35:59.038Z"
     },
     {
       "id": "bird-0726",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyq4la8xpq8",
+      "birdId": "bird-0725",
+      "birdName": "Murphy's Petrel",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:35:59.038Z"
+    },
     {
       "id": "mwoyprkuk76hb",
       "birdId": "bird-0265",
