@@ -1084,9 +1084,9 @@
       "id": "bird-0136",
       "name": "Orchard Oriole",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:36:17.839Z"
     },
     {
       "id": "bird-0137",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0vovjjrzpq",
+      "birdId": "bird-0136",
+      "birdName": "Orchard Oriole",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:36:17.839Z"
+    },
     {
       "id": "mwp0vijro0aws",
       "birdId": "bird-0145",
