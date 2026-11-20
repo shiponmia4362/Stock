@@ -1436,9 +1436,9 @@
       "id": "bird-0180",
       "name": "Spotted Towhee",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:26:48.768Z"
     },
     {
       "id": "bird-0181",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0jhs0pltla",
+      "birdId": "bird-0180",
+      "birdName": "Spotted Towhee",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:26:48.768Z"
+    },
     {
       "id": "mwp0j9prtglns",
       "birdId": "bird-0227",
