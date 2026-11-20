@@ -236,9 +236,9 @@
       "id": "bird-0030",
       "name": "Yellow-footed Gull",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:56:36.701Z"
     },
     {
       "id": "bird-0031",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1ltct4i64g",
+      "birdId": "bird-0030",
+      "birdName": "Yellow-footed Gull",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:56:36.701Z"
+    },
     {
       "id": "mwp1llwe8v8xl",
       "birdId": "bird-0026",
