@@ -2396,9 +2396,9 @@
       "id": "bird-0300",
       "name": "American Coot",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:36:04.227Z"
     },
     {
       "id": "bird-0301",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp30k5fvadrc",
+      "birdId": "bird-0300",
+      "birdName": "American Coot",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:36:04.227Z"
+    },
     {
       "id": "mwp2zp3nrovgn",
       "birdId": "bird-0303",
