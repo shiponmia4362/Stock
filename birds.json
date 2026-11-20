@@ -1796,9 +1796,9 @@
       "id": "bird-0225",
       "name": "Wedge-tailed Shearwater",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:26:00.223Z"
     },
     {
       "id": "bird-0226",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0igbjfktx0",
+      "birdId": "bird-0225",
+      "birdName": "Wedge-tailed Shearwater",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:26:00.223Z"
+    },
     {
       "id": "mwp0i5sfyli0x",
       "birdId": "bird-0198",
