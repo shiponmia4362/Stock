@@ -692,9 +692,9 @@
       "id": "bird-0087",
       "name": "Pileated Woodpecker",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:30:07.926Z"
     },
     {
       "id": "bird-0088",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyilo68zsen",
+      "birdId": "bird-0087",
+      "birdName": "Pileated Woodpecker",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:30:07.926Z"
+    },
     {
       "id": "mwoyianrmc7p3",
       "birdId": "bird-0092",
