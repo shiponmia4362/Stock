@@ -2028,9 +2028,9 @@
       "id": "bird-0254",
       "name": "Marbled Murrelet",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:40:14.726Z"
     },
     {
       "id": "bird-0255",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyvlvq7bf0u",
+      "birdId": "bird-0254",
+      "birdName": "Marbled Murrelet",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:40:14.726Z"
+    },
     {
       "id": "mwoyvf7irmlrr",
       "birdId": "bird-0301",
