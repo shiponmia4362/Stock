@@ -1532,9 +1532,9 @@
       "id": "bird-0192",
       "name": "Virginia Rail",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:26:22.215Z"
     },
     {
       "id": "bird-0193",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0ixaffi6sl",
+      "birdId": "bird-0192",
+      "birdName": "Virginia Rail",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:26:22.215Z"
+    },
     {
       "id": "mwp0iqzkn5zz2",
       "birdId": "bird-0197",
