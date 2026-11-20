@@ -1972,9 +1972,9 @@
       "id": "bird-0247",
       "name": "Muscovy Duck",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:27:09.708Z"
     },
     {
       "id": "bird-0248",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2p3pows6dh",
+      "birdId": "bird-0247",
+      "birdName": "Muscovy Duck",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:27:09.708Z"
+    },
     {
       "id": "mwp2ovx74oedv",
       "birdId": "bird-0252",
