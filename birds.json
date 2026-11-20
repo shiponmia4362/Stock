@@ -1756,9 +1756,9 @@
       "id": "bird-0220",
       "name": "Thick-billed Murre",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:39:47.630Z"
     },
     {
       "id": "bird-0221",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyv0z2cseh7",
+      "birdId": "bird-0220",
+      "birdName": "Thick-billed Murre",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:39:47.630Z"
+    },
     {
       "id": "mwoyum3ybiw6o",
       "birdId": "bird-0278",
