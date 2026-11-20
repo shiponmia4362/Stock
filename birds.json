@@ -2068,9 +2068,9 @@
       "id": "bird-0259",
       "name": "Black-tailed Gull",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:59:13.862Z"
     },
     {
       "id": "bird-0260",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1p6mey94qq",
+      "birdId": "bird-0259",
+      "birdName": "Black-tailed Gull",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:59:13.862Z"
+    },
     {
       "id": "mwp1oz4tig1x6",
       "birdId": "bird-0016",
