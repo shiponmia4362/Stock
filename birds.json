@@ -892,9 +892,9 @@
       "id": "bird-0112",
       "name": "Horned Grebe",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:48:42.654Z"
     },
     {
       "id": "bird-0113",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1bnkurunbq",
+      "birdId": "bird-0112",
+      "birdName": "Horned Grebe",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:48:42.654Z"
+    },
     {
       "id": "mwp1b7fyrkm7t",
       "birdId": "bird-0269",
