@@ -964,9 +964,9 @@
       "id": "bird-0121",
       "name": "Common Greenshank",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:37:10.326Z"
     },
     {
       "id": "bird-0122",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyrnli6exow",
+      "birdId": "bird-0121",
+      "birdName": "Common Greenshank",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:37:10.326Z"
+    },
     {
       "id": "mwoyrgtazqrr8",
       "birdId": "bird-0120",
