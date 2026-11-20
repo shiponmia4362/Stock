@@ -2316,9 +2316,9 @@
       "id": "bird-0290",
       "name": "Northern Bobwhite",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:38:19.051Z"
     },
     {
       "id": "bird-0291",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp33g6j5gq28",
+      "birdId": "bird-0290",
+      "birdName": "Northern Bobwhite",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:38:19.051Z"
+    },
     {
       "id": "mwp33ag3d9xhj",
       "birdId": "bird-0280",
