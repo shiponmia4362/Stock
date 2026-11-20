@@ -588,9 +588,9 @@
       "id": "bird-0074",
       "name": "American Barn Owl",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:32:46.590Z"
     },
     {
       "id": "bird-0075",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoym03ide6v6",
+      "birdId": "bird-0074",
+      "birdName": "American Barn Owl",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:32:46.590Z"
+    },
     {
       "id": "mwoylphi0o0eg",
       "birdId": "bird-0066",
