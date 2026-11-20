@@ -1260,9 +1260,9 @@
       "id": "bird-0158",
       "name": "Gray-cheeked Thrush",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:44:22.822Z"
     },
     {
       "id": "bird-0159",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1633ax9vk1",
+      "birdId": "bird-0158",
+      "birdName": "Gray-cheeked Thrush",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:44:22.822Z"
+    },
     {
       "id": "mwp15uiesgh4d",
       "birdId": "bird-0077",
