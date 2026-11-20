@@ -676,9 +676,9 @@
       "id": "bird-0085",
       "name": "Eastern Towhee",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:43:34.142Z"
     },
     {
       "id": "bird-0086",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp151j20ncve",
+      "birdId": "bird-0085",
+      "birdName": "Eastern Towhee",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:43:34.142Z"
+    },
     {
       "id": "mwp14udaqg446",
       "birdId": "bird-0081",
