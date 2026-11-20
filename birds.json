@@ -1684,9 +1684,9 @@
       "id": "bird-0211",
       "name": "Upland Sandpiper",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:25:15.749Z"
     },
     {
       "id": "bird-0212",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2mns5rc9vt",
+      "birdId": "bird-0211",
+      "birdName": "Upland Sandpiper",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:25:15.749Z"
+    },
     {
       "id": "mwp2lsp0ako8y",
       "birdId": "bird-0213",
