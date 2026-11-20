@@ -1100,9 +1100,9 @@
       "id": "bird-0138",
       "name": "American Oystercatcher",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:34:37.391Z"
     },
     {
       "id": "bird-0139",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0tjdbjzstk",
+      "birdId": "bird-0138",
+      "birdName": "American Oystercatcher",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:34:37.391Z"
+    },
     {
       "id": "mwp0t8rjj8hnz",
       "birdId": "bird-0142",
