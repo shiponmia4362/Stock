@@ -1068,9 +1068,9 @@
       "id": "bird-0134",
       "name": "Hooded Oriole",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:44:23.093Z"
     },
     {
       "id": "bird-0135",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoz0xitqq13y",
+      "birdId": "bird-0134",
+      "birdName": "Hooded Oriole",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:44:23.093Z"
+    },
     {
       "id": "mwoz0kjh6dik9",
       "birdId": "bird-0411",
