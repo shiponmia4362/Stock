@@ -20,9 +20,9 @@
       "id": "bird-0003",
       "name": "House Finch",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:18:56.756Z"
     },
     {
       "id": "bird-0004",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2ejckfhngb",
+      "birdId": "bird-0003",
+      "birdName": "House Finch",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:18:56.756Z"
+    },
     {
       "id": "mwp2dss4zbqfh",
       "birdId": "bird-0043",
