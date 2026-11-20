@@ -6116,9 +6116,9 @@
       "id": "bird-0765",
       "name": "Yellow-naped Amazon",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:06:31.157Z"
     },
     {
       "id": "bird-0766",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1yk1hjd6zw",
+      "birdId": "bird-0765",
+      "birdName": "Yellow-naped Amazon",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:06:31.157Z"
+    },
     {
       "id": "mwp1xx4lzgc8x",
       "birdId": "bird-0527",
