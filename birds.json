@@ -980,9 +980,9 @@
       "id": "bird-0123",
       "name": "Swainson's Thrush",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:00:22.869Z"
     },
     {
       "id": "bird-0124",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1qnv97w5j4",
+      "birdId": "bird-0123",
+      "birdName": "Swainson's Thrush",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:00:22.869Z"
+    },
     {
       "id": "mwp1qfzpefn56",
       "birdId": "bird-0115",
