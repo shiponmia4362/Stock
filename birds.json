@@ -1596,9 +1596,9 @@
       "id": "bird-0200",
       "name": "Eastern Whip-poor-will",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:16:09.429Z"
     },
     {
       "id": "bird-0201",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2ay8lpp9ox",
+      "birdId": "bird-0200",
+      "birdName": "Eastern Whip-poor-will",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:16:09.429Z"
+    },
     {
       "id": "mwp2agh9bjmk1",
       "birdId": "bird-0041",
