@@ -1348,9 +1348,9 @@
       "id": "bird-0169",
       "name": "Ovenbird",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:31:17.839Z"
     },
     {
       "id": "bird-0170",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0p9e76f7aq",
+      "birdId": "bird-0169",
+      "birdName": "Ovenbird",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:31:17.839Z"
+    },
     {
       "id": "mwp0p2njsiori",
       "birdId": "bird-0141",
