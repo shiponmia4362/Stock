@@ -460,9 +460,9 @@
       "id": "bird-0058",
       "name": "Common Loon",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:55:27.405Z"
     },
     {
       "id": "bird-0059",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1kbvxrmp37",
+      "birdId": "bird-0058",
+      "birdName": "Common Loon",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:55:27.405Z"
+    },
     {
       "id": "mwp1k2uus4hp0",
       "birdId": "bird-0055",
