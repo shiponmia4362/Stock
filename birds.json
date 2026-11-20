@@ -2636,9 +2636,9 @@
       "id": "bird-0330",
       "name": "Phainopepla",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T15:44:33.047Z"
     },
     {
       "id": "bird-0331",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5gmjbvveea",
+      "birdId": "bird-0330",
+      "birdName": "Phainopepla",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T15:44:33.047Z"
+    },
     {
       "id": "mwp5ggra7nvv8",
       "birdId": "bird-0317",
