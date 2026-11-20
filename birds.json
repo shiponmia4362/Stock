@@ -3908,9 +3908,9 @@
       "id": "bird-0489",
       "name": "Pigeon Guillemot",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:02:41.565Z"
     },
     {
       "id": "bird-0490",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1tmvxi0rp6",
+      "birdId": "bird-0489",
+      "birdName": "Pigeon Guillemot",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:02:41.565Z"
+    },
     {
       "id": "mwp1tbjpqi435",
       "birdId": "bird-0355",
