@@ -2588,9 +2588,9 @@
       "id": "bird-0324",
       "name": "Laughing Gull",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T15:43:58.239Z"
     },
     {
       "id": "bird-0325",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5fvof6v06e",
+      "birdId": "bird-0324",
+      "birdName": "Laughing Gull",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T15:43:58.239Z"
+    },
     {
       "id": "mwp5fp0ngffkb",
       "birdId": "bird-0325",
