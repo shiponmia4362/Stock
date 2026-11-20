@@ -260,9 +260,9 @@
       "id": "bird-0033",
       "name": "Grasshopper Sparrow",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:57:22.662Z"
     },
     {
       "id": "bird-0034",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1mstisrh6n",
+      "birdId": "bird-0033",
+      "birdName": "Grasshopper Sparrow",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:57:22.662Z"
+    },
     {
       "id": "mwp1mhppvgsz7",
       "birdId": "bird-0025",
