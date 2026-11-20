@@ -76,9 +76,9 @@
       "id": "bird-0010",
       "name": "Short-tailed Shearwater",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:21:26.768Z"
     },
     {
       "id": "bird-0011",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0clbk0ncp2",
+      "birdId": "bird-0010",
+      "birdName": "Short-tailed Shearwater",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:21:26.768Z"
+    },
     {
       "id": "mwp0c9u0vsox1",
       "birdId": "bird-0023",
