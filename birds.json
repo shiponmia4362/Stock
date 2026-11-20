@@ -2476,9 +2476,9 @@
       "id": "bird-0310",
       "name": "Yellow-eyed Junco",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:40:02.795Z"
     },
     {
       "id": "bird-0311",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp35o8bjbogf",
+      "birdId": "bird-0310",
+      "birdName": "Yellow-eyed Junco",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:40:02.795Z"
+    },
     {
       "id": "mwp35iyjdlmjt",
       "birdId": "bird-0309",
