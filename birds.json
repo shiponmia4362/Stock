@@ -468,9 +468,9 @@
       "id": "bird-0059",
       "name": "Pacific Loon",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:32:57.390Z"
     },
     {
       "id": "bird-0060",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoym8fi2jk9w",
+      "birdId": "bird-0059",
+      "birdName": "Pacific Loon",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:32:57.390Z"
+    },
     {
       "id": "mwoym03ide6v6",
       "birdId": "bird-0074",
