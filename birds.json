@@ -1916,9 +1916,9 @@
       "id": "bird-0240",
       "name": "Groove-billed Ani",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:38:04.311Z"
     },
     {
       "id": "bird-0241",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0xz13wxctm",
+      "birdId": "bird-0240",
+      "birdName": "Groove-billed Ani",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:38:04.311Z"
+    },
     {
       "id": "mwp0xpunh29ki",
       "birdId": "bird-0242",
