@@ -49,38 +49,5 @@
       "updatedAt": "2026-11-20T11:43:43.961Z"
     }
   ],
-  "logs": [
-    {
-      "id": "mwowuzfej5qmi",
-      "birdId": "mwow2kf7cbby2",
-      "birdName": "European Starling",
-      "action": "processing",
-      "detail": "Working → Processing",
-      "at": "2026-11-20T11:43:46.394Z"
-    },
-    {
-      "id": "mwowuxjtd9vle",
-      "birdId": "mwowbaajae3u1",
-      "birdName": "Rock Pigeon",
-      "action": "processing",
-      "detail": "Working → Processing",
-      "at": "2026-11-20T11:43:43.961Z"
-    },
-    {
-      "id": "mwowut2igaxfu",
-      "birdId": "mwow1kx7dypiy",
-      "birdName": "Band-rumped Storm-Petrel",
-      "action": "processing",
-      "detail": "Working → Processing",
-      "at": "2026-11-20T11:43:38.154Z"
-    },
-    {
-      "id": "mwowummagqhhe",
-      "birdId": "mwow1zy4jpplr",
-      "birdName": "Long-tailed Duck",
-      "action": "delete",
-      "detail": "Deleted permanently",
-      "at": "2026-11-20T11:43:29.794Z"
-    }
-  ]
+  "logs": []
 }
