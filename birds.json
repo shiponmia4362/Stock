@@ -2220,9 +2220,9 @@
       "id": "bird-0278",
       "name": "Carolina Wren",
       "country": "Others",
-      "status": "rejected",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T12:39:28.366Z"
+      "updatedAt": "2026-11-20T13:19:37.153Z"
     },
     {
       "id": "bird-0279",
@@ -6585,5 +6585,14 @@
       "updatedAt": "2026-11-20T11:59:53.274Z"
     }
   ],
-  "logs": []
+  "logs": [
+    {
+      "id": "mwp0a8qpva5f4",
+      "birdId": "bird-0278",
+      "birdName": "Carolina Wren",
+      "action": "accepted",
+      "detail": "Rejected → Accepted",
+      "at": "2026-11-20T13:19:37.153Z"
+    }
+  ]
 }
