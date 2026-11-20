@@ -1308,9 +1308,9 @@
       "id": "bird-0164",
       "name": "Glossy Ibis",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:31:43.967Z"
     },
     {
       "id": "bird-0165",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0ptjz7ejgv",
+      "birdId": "bird-0164",
+      "birdName": "Glossy Ibis",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:31:43.967Z"
+    },
     {
       "id": "mwp0p9e76f7aq",
       "birdId": "bird-0169",
