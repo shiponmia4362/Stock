@@ -2284,9 +2284,9 @@
       "id": "bird-0286",
       "name": "Snow Bunting",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:39:27.355Z"
     },
     {
       "id": "bird-0287",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp34wvvgsqtv",
+      "birdId": "bird-0286",
+      "birdName": "Snow Bunting",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:39:27.355Z"
+    },
     {
       "id": "mwp34r7nqksi9",
       "birdId": "bird-0295",
