@@ -396,9 +396,9 @@
       "id": "bird-0050",
       "name": "Veery",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:33:50.931Z"
     },
     {
       "id": "bird-0051",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2xparh0ft3",
+      "birdId": "bird-0050",
+      "birdName": "Veery",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:33:50.931Z"
+    },
     {
       "id": "mwp2xc77c6knv",
       "birdId": "bird-0214",
