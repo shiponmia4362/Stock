@@ -1116,9 +1116,9 @@
       "id": "bird-0140",
       "name": "Mountain Plover",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:34:06.720Z"
     },
     {
       "id": "bird-0141",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0svpckgi26",
+      "birdId": "bird-0140",
+      "birdName": "Mountain Plover",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:34:06.720Z"
+    },
     {
       "id": "mwp0rr8n0irvl",
       "birdId": "bird-0143",
