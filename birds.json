@@ -2460,9 +2460,9 @@
       "id": "bird-0308",
       "name": "Snowy Plover",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:39:35.724Z"
     },
     {
       "id": "bird-0309",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp353cc8l4w7",
+      "birdId": "bird-0308",
+      "birdName": "Snowy Plover",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:39:35.724Z"
+    },
     {
       "id": "mwp34wvvgsqtv",
       "birdId": "bird-0286",
