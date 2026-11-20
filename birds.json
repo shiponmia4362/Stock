@@ -508,9 +508,9 @@
       "id": "bird-0064",
       "name": "Wild Turkey",
       "country": "Others",
-      "status": "rejected",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T12:32:00.686Z"
+      "updatedAt": "2026-11-20T14:10:57.869Z"
     },
     {
       "id": "bird-0065",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp249u5r8pu6",
+      "birdId": "bird-0064",
+      "birdName": "Wild Turkey",
+      "action": "accepted",
+      "detail": "Rejected → Accepted",
+      "at": "2026-11-20T14:10:57.869Z"
+    },
     {
       "id": "mwp2416simo7x",
       "birdId": "bird-0452",
