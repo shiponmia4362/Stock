@@ -2236,9 +2236,9 @@
       "id": "bird-0280",
       "name": "Gyrfalcon",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:38:11.619Z"
     },
     {
       "id": "bird-0281",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp33ag3d9xhj",
+      "birdId": "bird-0280",
+      "birdName": "Gyrfalcon",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:38:11.619Z"
+    },
     {
       "id": "mwp333qb8aux1",
       "birdId": "bird-0281",
