@@ -2380,9 +2380,9 @@
       "id": "bird-0298",
       "name": "American Woodcock",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:36:12.523Z"
     },
     {
       "id": "bird-0299",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp30qjvnhl84",
+      "birdId": "bird-0298",
+      "birdName": "American Woodcock",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:36:12.523Z"
+    },
     {
       "id": "mwp30k5fvadrc",
       "birdId": "bird-0300",
