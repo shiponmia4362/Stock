@@ -2260,9 +2260,9 @@
       "id": "bird-0283",
       "name": "Chestnut-collared Longspur",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:37:11.763Z"
     },
     {
       "id": "bird-0284",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp3209fxfdut",
+      "birdId": "bird-0283",
+      "birdName": "Chestnut-collared Longspur",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:37:11.763Z"
+    },
     {
       "id": "mwp31syzr05x9",
       "birdId": "bird-0287",
