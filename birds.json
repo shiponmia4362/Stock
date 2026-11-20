@@ -1876,9 +1876,9 @@
       "id": "bird-0235",
       "name": "Kirtland's Warbler",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:28:34.019Z"
     },
     {
       "id": "bird-0236",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2qwrn9uvwb",
+      "birdId": "bird-0235",
+      "birdName": "Kirtland's Warbler",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:28:34.019Z"
+    },
     {
       "id": "mwp2qolvalqkt",
       "birdId": "bird-0255",
