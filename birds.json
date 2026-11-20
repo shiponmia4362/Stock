@@ -2276,9 +2276,9 @@
       "id": "bird-0285",
       "name": "Red-winged Blackbird",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:04:44.741Z"
     },
     {
       "id": "bird-0286",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1w9xhql4go",
+      "birdId": "bird-0285",
+      "birdName": "Red-winged Blackbird",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:04:44.741Z"
+    },
     {
       "id": "mwp1vxy5hcny0",
       "birdId": "bird-0491",
