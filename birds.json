@@ -1476,9 +1476,9 @@
       "id": "bird-0185",
       "name": "Blue Jay",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:48:01.517Z"
     },
     {
       "id": "bird-0186",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoz5m256fukd",
+      "birdId": "bird-0185",
+      "birdName": "Blue Jay",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:48:01.517Z"
+    },
     {
       "id": "mwoz56t91391p",
       "birdId": "bird-0257",
