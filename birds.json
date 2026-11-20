@@ -2452,9 +2452,9 @@
       "id": "bird-0307",
       "name": "Gambel's Quail",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:37:48.451Z"
     },
     {
       "id": "bird-0308",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp32skjwf20n",
+      "birdId": "bird-0307",
+      "birdName": "Gambel's Quail",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:37:48.451Z"
+    },
     {
       "id": "mwp32muz0c1pa",
       "birdId": "bird-0292",
