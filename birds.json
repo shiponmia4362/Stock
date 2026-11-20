@@ -228,9 +228,9 @@
       "id": "bird-0029",
       "name": "Northern Gannet",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:33:49.838Z"
     },
     {
       "id": "bird-0030",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyncwerdu1j",
+      "birdId": "bird-0029",
+      "birdName": "Northern Gannet",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:33:49.838Z"
+    },
     {
       "id": "mwoyn466d55si",
       "birdId": "bird-0039",
