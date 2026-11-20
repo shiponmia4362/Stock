@@ -12,9 +12,9 @@
       "id": "bird-0002",
       "name": "Five-striped Sparrow",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T15:46:25.198Z"
     },
     {
       "id": "bird-0003",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5j12mw0l0z",
+      "birdId": "bird-0002",
+      "birdName": "Five-striped Sparrow",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T15:46:25.198Z"
+    },
     {
       "id": "mwp5ivkvp3mem",
       "birdId": "bird-0007",
