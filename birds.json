@@ -2044,9 +2044,9 @@
       "id": "bird-0256",
       "name": "Killdeer",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:22:52.592Z"
     },
     {
       "id": "bird-0257",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0efjk7x68b",
+      "birdId": "bird-0256",
+      "birdName": "Killdeer",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:22:52.592Z"
+    },
     {
       "id": "mwp0e5a0zisca",
       "birdId": "bird-0299",
