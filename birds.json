@@ -804,9 +804,9 @@
       "id": "bird-0101",
       "name": "Wood Stork",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:28:48.646Z"
     },
     {
       "id": "bird-0102",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoygwhy5pbd8",
+      "birdId": "bird-0101",
+      "birdName": "Wood Stork",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:28:48.646Z"
+    },
     {
       "id": "mwoygn13lar7e",
       "birdId": "bird-0089",
