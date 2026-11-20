@@ -2364,9 +2364,9 @@
       "id": "bird-0296",
       "name": "Boreal Chickadee",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:36:27.643Z"
     },
     {
       "id": "bird-0297",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp3127v6y7rm",
+      "birdId": "bird-0296",
+      "birdName": "Boreal Chickadee",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:36:27.643Z"
+    },
     {
       "id": "mwp30wwzcm0ww",
       "birdId": "bird-0297",
