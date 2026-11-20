@@ -308,9 +308,9 @@
       "id": "bird-0039",
       "name": "Atlantic Puffin",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:33:38.526Z"
     },
     {
       "id": "bird-0040",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyn466d55si",
+      "birdId": "bird-0039",
+      "birdName": "Atlantic Puffin",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:33:38.526Z"
+    },
     {
       "id": "mwoymxril4sdg",
       "birdId": "bird-0037",
