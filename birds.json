@@ -748,9 +748,9 @@
       "id": "bird-0094",
       "name": "Burrowing Owl",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:28:27.358Z"
     },
     {
       "id": "bird-0095",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoygg2mvhgf6",
+      "birdId": "bird-0094",
+      "birdName": "Burrowing Owl",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:28:27.358Z"
+    },
     {
       "id": "mwoyg6smisxoc",
       "birdId": "bird-0109",
