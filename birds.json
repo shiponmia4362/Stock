@@ -1284,9 +1284,9 @@
       "id": "bird-0161",
       "name": "Blackpoll Warbler",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:24:57.951Z"
     },
     {
       "id": "bird-0162",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoybyhrezsdl",
+      "birdId": "bird-0161",
+      "birdName": "Blackpoll Warbler",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:24:57.951Z"
+    },
     {
       "id": "mwoybe478ut6t",
       "birdId": "bird-0168",
