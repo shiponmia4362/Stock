@@ -164,9 +164,9 @@
       "id": "bird-0021",
       "name": "American Crow",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:59:46.413Z"
     },
     {
       "id": "bird-0022",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1pvqliy15b",
+      "birdId": "bird-0021",
+      "birdName": "American Crow",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:59:46.413Z"
+    },
     {
       "id": "mwp1pm9puip83",
       "birdId": "bird-0012",
