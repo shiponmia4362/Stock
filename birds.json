@@ -916,9 +916,9 @@
       "id": "bird-0115",
       "name": "Tricolored Blackbird",
       "country": "Others",
-      "status": "rejected",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T12:43:37.862Z"
+      "updatedAt": "2026-11-20T14:00:12.661Z"
     },
     {
       "id": "bird-0116",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1qfzpefn56",
+      "birdId": "bird-0115",
+      "birdName": "Tricolored Blackbird",
+      "action": "accepted",
+      "detail": "Rejected → Accepted",
+      "at": "2026-11-20T14:00:12.661Z"
+    },
     {
       "id": "mwp1q3hhc1krs",
       "birdId": "bird-0244",
