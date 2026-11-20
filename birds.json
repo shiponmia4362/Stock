@@ -6575,9 +6575,25 @@
       "status": "working",
       "createdAt": "2026-11-20T11:59:53.274Z",
       "updatedAt": "2026-11-20T11:59:53.274Z"
+    },
+    {
+      "id": "mwp7eutjk4xkd",
+      "name": "Great Shearwater",
+      "country": "Others",
+      "status": "working",
+      "createdAt": "2026-11-20T16:39:09.703Z",
+      "updatedAt": "2026-11-20T16:39:09.703Z"
     }
   ],
   "logs": [
+    {
+      "id": "mwp7eutjrbcde",
+      "birdId": "mwp7eutjk4xkd",
+      "birdName": "Great Shearwater",
+      "action": "create",
+      "detail": "Great Shearwater from Others",
+      "at": "2026-11-20T16:39:09.703Z"
+    },
     {
       "id": "mwp7d3xowjhtq",
       "birdId": "mwp6wpk5iv8vv",
