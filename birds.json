@@ -940,9 +940,9 @@
       "id": "bird-0118",
       "name": "Downy Woodpecker",
       "country": "Others",
-      "status": "rejected",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T12:36:31.854Z"
+      "updatedAt": "2026-11-20T14:13:27.053Z"
     },
     {
       "id": "bird-0119",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp27gy59a7yi",
+      "birdId": "bird-0118",
+      "birdName": "Downy Woodpecker",
+      "action": "accepted",
+      "detail": "Rejected → Accepted",
+      "at": "2026-11-20T14:13:27.053Z"
+    },
     {
       "id": "mwp26qkds591k",
       "birdId": "bird-0219",
