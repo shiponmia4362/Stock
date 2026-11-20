@@ -716,9 +716,9 @@
       "id": "bird-0090",
       "name": "Brown Booby",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:29:44.279Z"
     },
     {
       "id": "bird-0091",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyi3fb6lwmd",
+      "birdId": "bird-0090",
+      "birdName": "Brown Booby",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:29:44.279Z"
+    },
     {
       "id": "mwoyh61jmntj3",
       "birdId": "bird-0103",
