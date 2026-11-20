@@ -1700,9 +1700,9 @@
       "id": "bird-0213",
       "name": "Chimney Swift",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:24:35.460Z"
     },
     {
       "id": "bird-0214",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2lsp0ako8y",
+      "birdId": "bird-0213",
+      "birdName": "Chimney Swift",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:24:35.460Z"
+    },
     {
       "id": "mwp2lja47mgcj",
       "birdId": "bird-0208",
