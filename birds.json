@@ -6108,9 +6108,9 @@
       "id": "bird-0764",
       "name": "Red-lored Amazon",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:06:51.821Z"
     },
     {
       "id": "bird-0765",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1yzzhma55a",
+      "birdId": "bird-0764",
+      "birdName": "Red-lored Amazon",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:06:51.821Z"
+    },
     {
       "id": "mwp1ysk53ia6e",
       "birdId": "bird-0766",
