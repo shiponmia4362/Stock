@@ -2484,9 +2484,9 @@
       "id": "bird-0311",
       "name": "Black-chinned Hummingbird",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T15:42:45.607Z"
     },
     {
       "id": "bird-0312",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5ebmvdhmyz",
+      "birdId": "bird-0311",
+      "birdName": "Black-chinned Hummingbird",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T15:42:45.607Z"
+    },
     {
       "id": "mwp5e6jjcc2vl",
       "birdId": "bird-0315",
