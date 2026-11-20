@@ -2492,9 +2492,9 @@
       "id": "bird-0312",
       "name": "Florida Scrub-Jay",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T15:43:15.742Z"
     },
     {
       "id": "bird-0313",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5eyvy0ytgg",
+      "birdId": "bird-0312",
+      "birdName": "Florida Scrub-Jay",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T15:43:15.742Z"
+    },
     {
       "id": "mwp5etcvsmjvp",
       "birdId": "bird-0318",
