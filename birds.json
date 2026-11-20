@@ -668,9 +668,9 @@
       "id": "bird-0084",
       "name": "Fox Sparrow",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:31:35.246Z"
     },
     {
       "id": "bird-0085",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoykh1qg42bj",
+      "birdId": "bird-0084",
+      "birdName": "Fox Sparrow",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:31:35.246Z"
+    },
     {
       "id": "mwoyiz8eena7m",
       "birdId": "bird-0083",
