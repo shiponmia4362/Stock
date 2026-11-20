@@ -100,9 +100,9 @@
       "id": "bird-0013",
       "name": "Black Storm-Petrel",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:34:55.422Z"
     },
     {
       "id": "bird-0014",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyori6ldmum",
+      "birdId": "bird-0013",
+      "birdName": "Black Storm-Petrel",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:34:55.422Z"
+    },
     {
       "id": "mwoyojnq4inqv",
       "birdId": "bird-0258",
