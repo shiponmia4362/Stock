@@ -2500,9 +2500,9 @@
       "id": "bird-0313",
       "name": "Gunnison Sage-Grouse",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T15:43:41.262Z"
     },
     {
       "id": "bird-0314",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5fikuo5vz9",
+      "birdId": "bird-0313",
+      "birdName": "Gunnison Sage-Grouse",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T15:43:41.262Z"
+    },
     {
       "id": "mwp5eyvy0ytgg",
       "birdId": "bird-0312",
