@@ -1852,9 +1852,9 @@
       "id": "bird-0232",
       "name": "Willow Ptarmigan",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:20:02.007Z"
     },
     {
       "id": "bird-0233",
@@ -6585,5 +6585,14 @@
       "updatedAt": "2026-11-20T11:59:53.274Z"
     }
   ],
-  "logs": []
+  "logs": [
+    {
+      "id": "mwoy5m541ar8d",
+      "birdId": "bird-0232",
+      "birdName": "Willow Ptarmigan",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:20:02.008Z"
+    }
+  ]
 }
