@@ -1660,9 +1660,9 @@
       "id": "bird-0208",
       "name": "Cassin's Finch",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:24:23.260Z"
     },
     {
       "id": "bird-0209",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2lja47mgcj",
+      "birdId": "bird-0208",
+      "birdName": "Cassin's Finch",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:24:23.260Z"
+    },
     {
       "id": "mwp2lak3bfe09",
       "birdId": "bird-0251",
