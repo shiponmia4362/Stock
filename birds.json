@@ -908,9 +908,9 @@
       "id": "bird-0114",
       "name": "Semipalmated Plover",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:35:18.006Z"
     },
     {
       "id": "bird-0115",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyp8xi9di8g",
+      "birdId": "bird-0114",
+      "birdName": "Semipalmated Plover",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:35:18.006Z"
+    },
     {
       "id": "mwoyozbzyw4zl",
       "birdId": "bird-0113",
