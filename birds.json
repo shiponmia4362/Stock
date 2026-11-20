@@ -4,9 +4,9 @@
       "id": "bird-0001",
       "name": "Northern Saw-whet Owl",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T15:47:05.742Z"
     },
     {
       "id": "bird-0002",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5jwcuyjedu",
+      "birdId": "bird-0001",
+      "birdName": "Northern Saw-whet Owl",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T15:47:05.742Z"
+    },
     {
       "id": "mwp5jq7jzp91g",
       "birdId": "bird-0008",
