@@ -2676,9 +2676,9 @@
       "id": "bird-0335",
       "name": "Northern Mockingbird",
       "country": "Others",
-      "status": "accepted",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T14:16:49.293Z"
+      "updatedAt": "2026-11-20T14:40:19.316Z"
     },
     {
       "id": "bird-0336",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp360z8tx9qm",
+      "birdId": "bird-0335",
+      "birdName": "Northern Mockingbird",
+      "action": "processing",
+      "detail": "Accepted → Processing",
+      "at": "2026-11-20T14:40:19.316Z"
+    },
     {
       "id": "mwp35o8bjbogf",
       "birdId": "bird-0310",
