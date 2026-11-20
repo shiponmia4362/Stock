@@ -1484,9 +1484,9 @@
       "id": "bird-0186",
       "name": "Common Grackle",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:44:31.678Z"
     },
     {
       "id": "bird-0187",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoz145aql180",
+      "birdId": "bird-0186",
+      "birdName": "Common Grackle",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:44:31.678Z"
+    },
     {
       "id": "mwoz0xitqq13y",
       "birdId": "bird-0134",
