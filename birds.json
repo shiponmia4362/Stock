@@ -1820,9 +1820,9 @@
       "id": "bird-0228",
       "name": "Northern Fulmar",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:21:38.951Z"
     },
     {
       "id": "bird-0229",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoy7oxz1q7u1",
+      "birdId": "bird-0228",
+      "birdName": "Northern Fulmar",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:21:38.951Z"
+    },
     {
       "id": "mwoy7conrifnb",
       "birdId": "bird-0187",
