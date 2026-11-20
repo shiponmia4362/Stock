@@ -1612,9 +1612,9 @@
       "id": "bird-0202",
       "name": "Mourning Warbler",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:27:18.859Z"
     },
     {
       "id": "bird-0203",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2parvy6kqe",
+      "birdId": "bird-0202",
+      "birdName": "Mourning Warbler",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:27:18.859Z"
+    },
     {
       "id": "mwp2p3pows6dh",
       "birdId": "bird-0247",
