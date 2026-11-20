@@ -3,9 +3,9 @@
     "id": "mwovurs43kylv",
     "name": "Short-tailed Shearwater",
     "country": "Others",
-    "status": "working",
+    "status": "accepted",
     "createdAt": "2026-11-20T11:15:36.868Z",
-    "updatedAt": "2026-11-20T11:15:36.868Z"
+    "updatedAt": "2026-11-20T11:22:59.619Z"
   },
   {
     "id": "mwow106cru6gs",
@@ -27,9 +27,9 @@
     "id": "mwow1zy4jpplr",
     "name": "Long-tailed Duck",
     "country": "Others",
-    "status": "working",
+    "status": "rejected",
     "createdAt": "2026-11-20T11:21:14.044Z",
-    "updatedAt": "2026-11-20T11:21:14.044Z"
+    "updatedAt": "2026-11-20T11:22:57.875Z"
   },
   {
     "id": "mwow2kf7cbby2",
