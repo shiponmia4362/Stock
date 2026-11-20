@@ -3100,9 +3100,9 @@
       "id": "bird-0388",
       "name": "Brown Thrasher",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:13:55.228Z"
     },
     {
       "id": "bird-0389",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp282os5fwdz",
+      "birdId": "bird-0388",
+      "birdName": "Brown Thrasher",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:13:55.228Z"
+    },
     {
       "id": "mwp27sxgji168",
       "birdId": "bird-0181",
