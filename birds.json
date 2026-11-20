@@ -820,9 +820,9 @@
       "id": "bird-0103",
       "name": "South Polar Skua",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:29:01.015Z"
     },
     {
       "id": "bird-0104",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyh61jmntj3",
+      "birdId": "bird-0103",
+      "birdName": "South Polar Skua",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:29:01.015Z"
+    },
     {
       "id": "mwoygwhy5pbd8",
       "birdId": "bird-0101",
