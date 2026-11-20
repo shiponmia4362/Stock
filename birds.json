@@ -1148,9 +1148,9 @@
       "id": "bird-0144",
       "name": "American Flamingo",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:25:57.670Z"
     },
     {
       "id": "bird-0145",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyd8kmdevv6",
+      "birdId": "bird-0144",
+      "birdName": "American Flamingo",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:25:57.670Z"
+    },
     {
       "id": "mwoyd09qlpjri",
       "birdId": "bird-0146",
