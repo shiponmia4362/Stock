@@ -4092,9 +4092,9 @@
       "id": "bird-0512",
       "name": "Scott's Oriole",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:04:20.077Z"
     },
     {
       "id": "bird-0513",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1vqwdmxwvh",
+      "birdId": "bird-0512",
+      "birdName": "Scott's Oriole",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:04:20.077Z"
+    },
     {
       "id": "mwp1vhz10dmvw",
       "birdId": "bird-0743",
