@@ -6585,30 +6585,5 @@
       "updatedAt": "2026-11-20T17:13:27.322Z"
     }
   ],
-  "logs": [
-    {
-      "id": "mwp8myhmg5jc4",
-      "birdId": "mwp8lrb1muv43",
-      "birdName": "Great Shearwater",
-      "action": "rejected",
-      "detail": "Working → Rejected",
-      "at": "2026-11-20T17:13:27.322Z"
-    },
-    {
-      "id": "mwp8lrb1faw94",
-      "birdId": "mwp8lrb1muv43",
-      "birdName": "Great Shearwater",
-      "action": "create",
-      "detail": "Great Shearwater from Others",
-      "at": "2026-11-20T17:12:31.357Z"
-    },
-    {
-      "id": "mwp8kkqr3i5tp",
-      "birdId": "mwp7l0b53n70d",
-      "birdName": "Great Shearwater",
-      "action": "delete",
-      "detail": "Deleted permanently",
-      "at": "2026-11-20T17:11:36.195Z"
-    }
-  ]
+  "logs": []
 }
