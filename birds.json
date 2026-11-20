@@ -868,9 +868,9 @@
       "id": "bird-0109",
       "name": "Bufflehead",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:28:15.334Z"
     },
     {
       "id": "bird-0110",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyg6smisxoc",
+      "birdId": "bird-0109",
+      "birdName": "Bufflehead",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:28:15.334Z"
+    },
     {
       "id": "mwoyfu3qig2gw",
       "birdId": "bird-0133",
