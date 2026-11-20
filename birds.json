@@ -1420,9 +1420,9 @@
       "id": "bird-0178",
       "name": "American Redstart",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:30:46.279Z"
     },
     {
       "id": "bird-0179",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0ol1jmdmhe",
+      "birdId": "bird-0178",
+      "birdName": "American Redstart",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:30:46.279Z"
+    },
     {
       "id": "mwp0oc7spy87d",
       "birdId": "bird-0177",
