@@ -6585,54 +6585,5 @@
       "updatedAt": "2026-11-20T11:59:53.274Z"
     }
   ],
-  "logs": [
-    {
-      "id": "mwowz8ihbbe5i",
-      "birdId": "mwovurs43kylv",
-      "birdName": "Short-tailed Shearwater",
-      "action": "delete",
-      "detail": "Deleted permanently",
-      "at": "2026-11-20T11:47:04.793Z"
-    },
-    {
-      "id": "mwowz2khck7xa",
-      "birdId": "mwow106cru6gs",
-      "birdName": "Great Shearwater",
-      "action": "delete",
-      "detail": "Deleted permanently",
-      "at": "2026-11-20T11:46:57.089Z"
-    },
-    {
-      "id": "mwowywwhrrth0",
-      "birdId": "mwow1kx7dypiy",
-      "birdName": "Band-rumped Storm-Petrel",
-      "action": "delete",
-      "detail": "Deleted permanently",
-      "at": "2026-11-20T11:46:49.745Z"
-    },
-    {
-      "id": "mwowyr8zdppng",
-      "birdId": "mwow2kf7cbby2",
-      "birdName": "European Starling",
-      "action": "delete",
-      "detail": "Deleted permanently",
-      "at": "2026-11-20T11:46:42.419Z"
-    },
-    {
-      "id": "mwowylnv0iu8i",
-      "birdId": "mwow38yjjm93r",
-      "birdName": "Dunlin",
-      "action": "delete",
-      "detail": "Deleted permanently",
-      "at": "2026-11-20T11:46:35.179Z"
-    },
-    {
-      "id": "mwowyfrmv55ak",
-      "birdId": "mwowbaajae3u1",
-      "birdName": "Rock Pigeon",
-      "action": "delete",
-      "detail": "Deleted permanently",
-      "at": "2026-11-20T11:46:27.538Z"
-    }
-  ]
+  "logs": []
 }
