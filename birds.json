@@ -388,9 +388,9 @@
       "id": "bird-0049",
       "name": "Great Black-backed Gull",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:24:39.671Z"
     },
     {
       "id": "bird-0050",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0gq5z8kz87",
+      "birdId": "bird-0049",
+      "birdName": "Great Black-backed Gull",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:24:39.671Z"
+    },
     {
       "id": "mwp0ggygglu2g",
       "birdId": "bird-0249",
