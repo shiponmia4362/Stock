@@ -708,9 +708,9 @@
       "id": "bird-0089",
       "name": "Northern Jacana",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:28:36.375Z"
     },
     {
       "id": "bird-0090",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoygn13lar7e",
+      "birdId": "bird-0089",
+      "birdName": "Northern Jacana",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:28:36.375Z"
+    },
     {
       "id": "mwoygg2mvhgf6",
       "birdId": "bird-0094",
