@@ -1804,9 +1804,9 @@
       "id": "bird-0226",
       "name": "Hook-billed Kite",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:29:03.987Z"
     },
     {
       "id": "bird-0227",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2rjw40opuu",
+      "birdId": "bird-0226",
+      "birdName": "Hook-billed Kite",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:29:03.988Z"
+    },
     {
       "id": "mwp2rd7ff75n7",
       "birdId": "bird-0196",
