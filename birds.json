@@ -1564,9 +1564,9 @@
       "id": "bird-0196",
       "name": "Hudsonian Godwit",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:28:55.323Z"
     },
     {
       "id": "bird-0197",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2rd7ff75n7",
+      "birdId": "bird-0196",
+      "birdName": "Hudsonian Godwit",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:28:55.323Z"
+    },
     {
       "id": "mwp2qwrn9uvwb",
       "birdId": "bird-0235",
