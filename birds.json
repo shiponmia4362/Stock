@@ -876,9 +876,9 @@
       "id": "bird-0110",
       "name": "Common Goldeneye",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:48:52.918Z"
     },
     {
       "id": "bird-0111",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1bvhy3l3sq",
+      "birdId": "bird-0110",
+      "birdName": "Common Goldeneye",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:48:52.918Z"
+    },
     {
       "id": "mwp1bnkurunbq",
       "birdId": "bird-0112",
