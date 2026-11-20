@@ -2300,9 +2300,9 @@
       "id": "bird-0288",
       "name": "California Quail",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:36:44.467Z"
     },
     {
       "id": "bird-0289",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp31f77dau3t",
+      "birdId": "bird-0288",
+      "birdName": "California Quail",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:36:44.467Z"
+    },
     {
       "id": "mwp318lnm0w65",
       "birdId": "bird-0305",
