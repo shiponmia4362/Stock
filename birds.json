@@ -2244,9 +2244,9 @@
       "id": "bird-0281",
       "name": "Green Jay",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:38:02.915Z"
     },
     {
       "id": "bird-0282",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp333qb8aux1",
+      "birdId": "bird-0281",
+      "birdName": "Green Jay",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:38:02.915Z"
+    },
     {
       "id": "mwp32y7f9gj8n",
       "birdId": "bird-0306",
