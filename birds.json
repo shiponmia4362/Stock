@@ -1036,9 +1036,9 @@
       "id": "bird-0130",
       "name": "Ringed Kingfisher",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:26:29.895Z"
     },
     {
       "id": "bird-0131",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoydxfrsln2b",
+      "birdId": "bird-0130",
+      "birdName": "Ringed Kingfisher",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:26:29.895Z"
+    },
     {
       "id": "mwoydlk7aaor4",
       "birdId": "bird-0273",
