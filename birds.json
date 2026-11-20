@@ -1844,9 +1844,9 @@
       "id": "bird-0231",
       "name": "Mitred Parakeet",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:28:03.159Z"
     },
     {
       "id": "bird-0232",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0l36fzazyn",
+      "birdId": "bird-0231",
+      "birdName": "Mitred Parakeet",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:28:03.159Z"
+    },
     {
       "id": "mwp0kv3zyg14z",
       "birdId": "bird-0237",
