@@ -1772,9 +1772,9 @@
       "id": "bird-0222",
       "name": "Leach's Storm-Petrel",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:28:34.055Z"
     },
     {
       "id": "bird-0223",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0lr0nvrq47",
+      "birdId": "bird-0222",
+      "birdName": "Leach's Storm-Petrel",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:28:34.055Z"
+    },
     {
       "id": "mwp0ljtb2bats",
       "birdId": "bird-0236",
