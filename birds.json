@@ -2580,9 +2580,9 @@
       "id": "bird-0323",
       "name": "Rock Ptarmigan",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T15:45:02.655Z"
     },
     {
       "id": "bird-0324",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5h9dr3kmsx",
+      "birdId": "bird-0323",
+      "birdName": "Rock Ptarmigan",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T15:45:02.655Z"
+    },
     {
       "id": "mwp5gt8ujd180",
       "birdId": "bird-0320",
