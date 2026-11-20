@@ -644,9 +644,9 @@
       "id": "bird-0081",
       "name": "Harris's Hawk",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:43:24.862Z"
     },
     {
       "id": "bird-0082",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp14udaqg446",
+      "birdId": "bird-0081",
+      "birdName": "Harris's Hawk",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:43:24.862Z"
+    },
     {
       "id": "mwp14pauvuq56",
       "birdId": "bird-0079",
