@@ -148,9 +148,9 @@
       "id": "bird-0019",
       "name": "Eastern Bluebird",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:58:54.941Z"
     },
     {
       "id": "bird-0020",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1os0tox29u",
+      "birdId": "bird-0019",
+      "birdName": "Eastern Bluebird",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:58:54.941Z"
+    },
     {
       "id": "mwp1oiqmz25n3",
       "birdId": "bird-0015",
