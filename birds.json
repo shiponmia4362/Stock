@@ -1132,9 +1132,9 @@
       "id": "bird-0142",
       "name": "Brandt's Cormorant",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:34:23.647Z"
     },
     {
       "id": "bird-0143",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0t8rjj8hnz",
+      "birdId": "bird-0142",
+      "birdName": "Brandt's Cormorant",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:34:23.647Z"
+    },
     {
       "id": "mwp0t0ywpnxd6",
       "birdId": "bird-0151",
