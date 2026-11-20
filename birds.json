@@ -132,9 +132,9 @@
       "id": "bird-0017",
       "name": "Rock Pigeon",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:58:20.398Z"
     },
     {
       "id": "bird-0018",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1o1da8prbc",
+      "birdId": "bird-0017",
+      "birdName": "Rock Pigeon",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:58:20.398Z"
+    },
     {
       "id": "mwp1numt09jkn",
       "birdId": "bird-0018",
