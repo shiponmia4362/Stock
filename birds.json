@@ -516,9 +516,9 @@
       "id": "bird-0065",
       "name": "Yellow-throated Warbler",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:53:36.702Z"
     },
     {
       "id": "bird-0066",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1hygu8bu53",
+      "birdId": "bird-0065",
+      "birdName": "Yellow-throated Warbler",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:53:36.702Z"
+    },
     {
       "id": "mwp1dfdy4wjj0",
       "birdId": "bird-0267",
