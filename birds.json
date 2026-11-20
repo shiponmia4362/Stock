@@ -724,9 +724,9 @@
       "id": "bird-0091",
       "name": "Magnificent Frigatebird",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:41:39.846Z"
     },
     {
       "id": "bird-0092",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp12lc6ph0wa",
+      "birdId": "bird-0091",
+      "birdName": "Magnificent Frigatebird",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:41:39.846Z"
+    },
     {
       "id": "mwp12dryeje1j",
       "birdId": "bird-0098",
