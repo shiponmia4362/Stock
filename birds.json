@@ -316,9 +316,9 @@
       "id": "bird-0040",
       "name": "Least Tern",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:21:02.400Z"
     },
     {
       "id": "bird-0041",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0c2ioxqwxi",
+      "birdId": "bird-0040",
+      "birdName": "Least Tern",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:21:02.400Z"
+    },
     {
       "id": "mwp0bpco8o9ww",
       "birdId": "bird-0057",
