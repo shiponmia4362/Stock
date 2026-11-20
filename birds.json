@@ -1628,9 +1628,9 @@
       "id": "bird-0204",
       "name": "Marsh Wren",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:27:50.212Z"
     },
     {
       "id": "bird-0205",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2pyysskh88",
+      "birdId": "bird-0204",
+      "birdName": "Marsh Wren",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:27:50.212Z"
+    },
     {
       "id": "mwp2pr7nqtnqe",
       "birdId": "bird-0047",
