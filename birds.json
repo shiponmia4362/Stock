@@ -5964,9 +5964,9 @@
       "id": "bird-0746",
       "name": "Shiny Cowbird",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:43:48.741Z"
     },
     {
       "id": "bird-0747",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoz070lnpqhp",
+      "birdId": "bird-0746",
+      "birdName": "Shiny Cowbird",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:43:48.741Z"
+    },
     {
       "id": "mwoyzyme0krjl",
       "birdId": "bird-0115",
