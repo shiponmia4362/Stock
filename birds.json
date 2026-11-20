@@ -23,17 +23,17 @@
       "status": "processing",
       "createdAt": "2026-11-20T11:20:54.571Z",
       "updatedAt": "2026-11-20T11:43:38.154Z"
-    },
-    {
-      "id": "mwow2kf7cbby2",
-      "name": "European Starling",
-      "country": "Others",
-      "status": "processing",
-      "createdAt": "2026-11-20T11:21:40.579Z",
-      "updatedAt": "2026-11-20T11:43:46.394Z"
     }
   ],
   "logs": [
+    {
+      "id": "mwowyr8zdppng",
+      "birdId": "mwow2kf7cbby2",
+      "birdName": "European Starling",
+      "action": "delete",
+      "detail": "Deleted permanently",
+      "at": "2026-11-20T11:46:42.419Z"
+    },
     {
       "id": "mwowylnv0iu8i",
       "birdId": "mwow38yjjm93r",
