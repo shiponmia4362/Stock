@@ -252,9 +252,9 @@
       "id": "bird-0032",
       "name": "Seaside Sparrow",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:56:43.829Z"
     },
     {
       "id": "bird-0033",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1lyut6grzj",
+      "birdId": "bird-0032",
+      "birdName": "Seaside Sparrow",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:56:43.829Z"
+    },
     {
       "id": "mwp1ltct4i64g",
       "birdId": "bird-0030",
