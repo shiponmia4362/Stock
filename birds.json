@@ -2012,9 +2012,9 @@
       "id": "bird-0252",
       "name": "Purple Martin",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:26:59.611Z"
     },
     {
       "id": "bird-0253",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2ovx74oedv",
+      "birdId": "bird-0252",
+      "birdName": "Purple Martin",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:26:59.611Z"
+    },
     {
       "id": "mwp2ooqcvj6m8",
       "birdId": "bird-0043",
