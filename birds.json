@@ -52,9 +52,9 @@
       "id": "bird-0007",
       "name": "Common Tern",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T15:46:18.078Z"
     },
     {
       "id": "bird-0008",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5ivkvp3mem",
+      "birdId": "bird-0007",
+      "birdName": "Common Tern",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T15:46:18.079Z"
+    },
     {
       "id": "mwp5ipcetfuyt",
       "birdId": "bird-0005",
