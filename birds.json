@@ -2348,9 +2348,9 @@
       "id": "bird-0294",
       "name": "Chipping Sparrow",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:37:18.739Z"
     },
     {
       "id": "bird-0295",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp325n7a817n",
+      "birdId": "bird-0294",
+      "birdName": "Chipping Sparrow",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:37:18.739Z"
+    },
     {
       "id": "mwp3209fxfdut",
       "birdId": "bird-0283",
