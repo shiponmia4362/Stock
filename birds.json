@@ -6484,9 +6484,9 @@
       "id": "bird-0811",
       "name": "Nanday Parakeet",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:07:29.749Z"
     },
     {
       "id": "bird-0812",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1zt91zzr6k",
+      "birdId": "bird-0811",
+      "birdName": "Nanday Parakeet",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T14:07:29.749Z"
+    },
     {
       "id": "mwp1zaulpxym7",
       "birdId": "bird-0724",
