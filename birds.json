@@ -1924,9 +1924,9 @@
       "id": "bird-0241",
       "name": "American Dipper",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:37:11.039Z"
     },
     {
       "id": "bird-0242",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0wtxb1g94k",
+      "birdId": "bird-0241",
+      "birdName": "American Dipper",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:37:11.039Z"
+    },
     {
       "id": "mwp0wlsnssfj4",
       "birdId": "bird-0274",
