@@ -1492,9 +1492,9 @@
       "id": "bird-0187",
       "name": "Tufted Titmouse",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:21:23.063Z"
     },
     {
       "id": "bird-0188",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoy7conrifnb",
+      "birdId": "bird-0187",
+      "birdName": "Tufted Titmouse",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:21:23.063Z"
+    },
     {
       "id": "mwoy6or3ulwqk",
       "birdId": "bird-0233",
