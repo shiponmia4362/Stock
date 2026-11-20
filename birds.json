@@ -556,9 +556,9 @@
       "id": "bird-0070",
       "name": "Cedar Waxwing",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:32:22.422Z"
     },
     {
       "id": "bird-0071",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoylhg6kp8ce",
+      "birdId": "bird-0070",
+      "birdName": "Cedar Waxwing",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:32:22.422Z"
+    },
     {
       "id": "mwoyl7mu61bx7",
       "birdId": "bird-0062",
