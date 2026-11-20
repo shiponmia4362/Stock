@@ -1452,9 +1452,9 @@
       "id": "bird-0182",
       "name": "Greater Prairie-Chicken",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:29:24.219Z"
     },
     {
       "id": "bird-0183",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2rzi32m6sm",
+      "birdId": "bird-0182",
+      "birdName": "Greater Prairie-Chicken",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:29:24.219Z"
+    },
     {
       "id": "mwp2rsjokp2pp",
       "birdId": "bird-0176",
