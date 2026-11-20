@@ -2004,9 +2004,9 @@
       "id": "bird-0251",
       "name": "Great Blue Heron",
       "country": "Others",
-      "status": "accepted",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T14:19:11.196Z"
+      "updatedAt": "2026-11-20T14:24:11.955Z"
     },
     {
       "id": "bird-0252",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2lak3bfe09",
+      "birdId": "bird-0251",
+      "birdName": "Great Blue Heron",
+      "action": "processing",
+      "detail": "Accepted → Processing",
+      "at": "2026-11-20T14:24:11.955Z"
+    },
     {
       "id": "mwp2kpnow8dme",
       "birdId": "bird-0246",
