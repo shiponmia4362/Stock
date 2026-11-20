@@ -1316,9 +1316,9 @@
       "id": "bird-0165",
       "name": "Brant",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:32:02.215Z"
     },
     {
       "id": "bird-0166",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp0q7mv6r2va",
+      "birdId": "bird-0165",
+      "birdName": "Brant",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:32:02.215Z"
+    },
     {
       "id": "mwp0pzsf630sy",
       "birdId": "bird-0159",
