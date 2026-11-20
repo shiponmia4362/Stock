@@ -2036,9 +2036,9 @@
       "id": "bird-0255",
       "name": "American Avocet",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T14:28:23.443Z"
     },
     {
       "id": "bird-0256",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp2qolvalqkt",
+      "birdId": "bird-0255",
+      "birdName": "American Avocet",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T14:28:23.443Z"
+    },
     {
       "id": "mwp2qhvvkeaxn",
       "birdId": "bird-0203",
