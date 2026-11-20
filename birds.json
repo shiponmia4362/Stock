@@ -28,9 +28,9 @@
       "id": "mwow2kf7cbby2",
       "name": "European Starling",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:21:40.579Z",
-      "updatedAt": "2026-11-20T11:21:40.579Z"
+      "updatedAt": "2026-11-20T11:43:46.394Z"
     },
     {
       "id": "mwow38yjjm93r",
@@ -50,6 +50,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwowuzfej5qmi",
+      "birdId": "mwow2kf7cbby2",
+      "birdName": "European Starling",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T11:43:46.394Z"
+    },
     {
       "id": "mwowuxjtd9vle",
       "birdId": "mwowbaajae3u1",
