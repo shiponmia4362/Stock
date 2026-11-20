@@ -2092,9 +2092,9 @@
       "id": "bird-0262",
       "name": "Western Flycatcher",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:43:49.031Z"
     },
     {
       "id": "bird-0263",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp15d0n1en68",
+      "birdId": "bird-0262",
+      "birdName": "Western Flycatcher",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:43:49.031Z"
+    },
     {
       "id": "mwp151j20ncve",
       "birdId": "bird-0085",
