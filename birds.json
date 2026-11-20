@@ -28,9 +28,9 @@
       "id": "bird-0004",
       "name": "Yellow-billed Magpie",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T15:47:51.070Z"
     },
     {
       "id": "bird-0005",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5kvbymi8mt",
+      "birdId": "bird-0004",
+      "birdName": "Yellow-billed Magpie",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T15:47:51.070Z"
+    },
     {
       "id": "mwp5k7ta9w4ck",
       "birdId": "bird-0009",
