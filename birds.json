@@ -2404,9 +2404,9 @@
       "id": "bird-0301",
       "name": "Parakeet Auklet",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:40:06.078Z"
     },
     {
       "id": "bird-0302",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyvf7irmlrr",
+      "birdId": "bird-0301",
+      "birdName": "Parakeet Auklet",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:40:06.078Z"
+    },
     {
       "id": "mwoyv84e181ua",
       "birdId": "bird-0194",
