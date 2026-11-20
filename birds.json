@@ -2572,9 +2572,9 @@
       "id": "bird-0322",
       "name": "Black-legged Kittiwake",
       "country": "Others",
-      "status": "working",
+      "status": "processing",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T15:42:52.911Z"
     },
     {
       "id": "bird-0323",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp5eh9rouvc0",
+      "birdId": "bird-0322",
+      "birdName": "Black-legged Kittiwake",
+      "action": "processing",
+      "detail": "Working → Processing",
+      "at": "2026-11-20T15:42:52.911Z"
+    },
     {
       "id": "mwp5ebmvdhmyz",
       "birdId": "bird-0311",
