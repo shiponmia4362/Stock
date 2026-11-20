@@ -1276,9 +1276,9 @@
       "id": "bird-0160",
       "name": "Northern Wheatear",
       "country": "Others",
-      "status": "working",
+      "status": "rejected",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T12:24:14.615Z"
     },
     {
       "id": "bird-0161",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwoyb11ztmunn",
+      "birdId": "bird-0160",
+      "birdName": "Northern Wheatear",
+      "action": "rejected",
+      "detail": "Working → Rejected",
+      "at": "2026-11-20T12:24:14.615Z"
+    },
     {
       "id": "mwoyaj1rdk6zt",
       "birdId": "bird-0163",
