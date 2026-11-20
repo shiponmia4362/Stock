@@ -2148,9 +2148,9 @@
       "id": "bird-0269",
       "name": "Northern House Wren",
       "country": "Others",
-      "status": "working",
+      "status": "accepted",
       "createdAt": "2026-11-20T11:59:53.274Z",
-      "updatedAt": "2026-11-20T11:59:53.274Z"
+      "updatedAt": "2026-11-20T13:48:21.742Z"
     },
     {
       "id": "bird-0270",
@@ -6586,6 +6586,14 @@
     }
   ],
   "logs": [
+    {
+      "id": "mwp1b7fyrkm7t",
+      "birdId": "bird-0269",
+      "birdName": "Northern House Wren",
+      "action": "accepted",
+      "detail": "Working → Accepted",
+      "at": "2026-11-20T13:48:21.742Z"
+    },
     {
       "id": "mwp1aw1ivxee4",
       "birdId": "bird-0271",
